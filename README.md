@@ -11,6 +11,9 @@ VanillaGuide
 * Подсказки и советы по различным квестам
 * Интеграция: [MetaMapBWP](https://github.com/laytya/Metamap-vanilla)
 * Интеграция: [TomTom Vanilla](https://github.com/cralor/TomTomVanilla)
+
+Желательные Аддоны 
+============
 * Интеграция: [pfQuest by Shagu](https://github.com/Eynschteyn/pfQuest)
 * Интеграция: [Shagukill by Shagu](https://github.com/Eynschteyn/ShaguKill)
 * Интеграция: [ShaguTweaks by Shagu](https://github.com/Eynschteyn/ShaguTweaks)
