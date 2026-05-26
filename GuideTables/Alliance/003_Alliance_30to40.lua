@@ -1,7 +1,7 @@
 --[[--------------------------------------------------
 003_Alliance_30to40.lua
 Authors: mrmr
-Version: 1.04.3
+Version: 1.06.0
 ------------------------------------------------------
 Description: Guide Serie - 003 From Lvl 30 to Lvl 40
     1.04.1
@@ -222,18 +222,18 @@ Table_003_Alliance_30to40 = {
 		--itemCount = 38,
 		items = {
 			[1] = { str = "1. 35-36 Stranglethorn Vale" },
-			[2] = { str = "2. Hand in  #TURNINGoblin Sponsorship pt.2#  as you get off the boat, accept  #ACCEPTGoblin Sponsorship pt.3#" },
-			[3] = { str = "3. Go in the Inn make BB your home, Accept  #ACCEPTSinging Blue Shards#" },
-			[4] = { str = "4. Accept  #ACCEPTHostile Takeover#  and  #ACCEPTBloodscalp Ears#" },
-			[5] = { str = "5. Accept  #ACCEPTThe Haunted Isle#  and turn it in just outside the door, accept  #ACCEPTThe Stone of the Tides#  Then turn in  #TURNINGoblin Sponsorship pt.3#  accept  #ACCEPTGoblin Sponsorship pt.4#" },
-			[6] = { str = "6. Go into the shop Tan-Your-Hide Leatherworks and accept  #ACCEPTSupply and Demand#  (it’s down the ramp from the FP)" },
-			[7] = { str = "7. Go around 48,21 and Kill Shadowmaw Panthers for  #DOQUESTPanther Mastery pt.3#", x = 48, y = 21, zone = "Stranglethorn Vale" },
-			[8] = { str = "8. Run west to the Venture Co. Base Camp at 43,18 and Kill the goblins here for  #DOQUESTHostile Takeover#  while you climb the Operations Tower behind the base for  #DOQUESTGoblin Sponsorship pt.4#  You’re going to climb it and kill Foreman Cozzle for his key.", x = 43, y = 18, zone = "Stranglethorn Vale" },
-			[9] = { str = "9. If you still don’t have all the crystals kill the goblins until you do, then enter the tiny shack next to the base at 43,20 and open the chest to get the blueprints for  #DOQUESTGoblin Sponsorship pt.4#", x = 43, y = 20, zone = "Stranglethorn Vale" },
-			[10] = { str = "10. Kill Lashtail Raptors around 37,22 for  #DOQUESTRaptor Mastery pt.2#", x = 37, y = 22, zone = "Stranglethorn Vale" },
-			[11] = { str = "11. Kill Elter Tigers around 33,18 for  #DOQUESTTiger Mastery pt.3#", x = 33, y = 18, zone = "Stranglethorn Vale" },
-			[12] = { str = "12. Run towards Nessingways and kill the crocs in the river around it for  #DOQUESTSupply and Demand#" },
-			[13] = { str = "13. Go to Nessingways and turn in #TURNINTiger Mastery pt.3#,  #TURNINPanther Mastery pt.3#,  #TURNINRaptor Mastery pt.2#, and  #TURNINHemet Nesingwary#, Accept  #ACCEPTTiger Mastery pt.4#   #ACCEPTPanther Mastery pt.4#  and   #ACCEPTRaptor Mastery pt.3#" },
+			[2] = { str = "2. Сдайте  #TURNINGoblin Sponsorship pt.2#  и берите следующее задание  #ACCEPTGoblin Sponsorship pt.3#" },
+			[3] = { str = "3. Идем в таверну и делаем ее домом, берите задание  #ACCEPTSinging Blue Shards#" },
+			[4] = { str = "4. Берите 2 задания  #ACCEPTHostile Takeover#  и  #ACCEPTBloodscalp Ears#" },
+			[5] = { str = "5. Берите задание  #ACCEPTThe Haunted Isle#  и сдаем его у двери, Берите задание  #ACCEPTThe Stone of the Tides# и сдаем  #TURNINGoblin Sponsorship pt.3#  берем следующее задание  #ACCEPTGoblin Sponsorship pt.4#" },
+			[6] = { str = "6. Спуститесь ниже и берите задание  #ACCEPTSupply and Demand#  (находится под полетчиком)" },
+			[7] = { str = "7. Идите в точку 48,21 и убивайте Shadowmaw Panthers для задания  #DOQUESTPanther Mastery pt.3#", x = 48, y = 21, zone = "Stranglethorn Vale" },
+			[8] = { str = "8. Идите к гоблинам the Venture Co. в точке 43,18 и убивайте их для задания  #DOQUESTHostile Takeover#  пока вы поднимаетесь на башню для задания  #DOQUESTGoblin Sponsorship pt.4#  убейте бригадира Foreman Cozzle на верху башни.", x = 43, y = 18, zone = "Stranglethorn Vale" },
+			[9] = { str = "9. Если вы не выбили еще все кристаллы то продолжайте их выбивать затем войдите в маленький дом рядом с башней в точке 43,20 и откройте сундук для задания  #DOQUESTGoblin Sponsorship pt.4#", x = 43, y = 20, zone = "Stranglethorn Vale" },
+			[10] = { str = "10. Убивайте рапторов в точке 37,22 для задания  #DOQUESTRaptor Mastery pt.2#", x = 37, y = 22, zone = "Stranglethorn Vale" },
+			[11] = { str = "11. Убивайте старых тигров в точке 33,18 для задания  #DOQUESTTiger Mastery pt.3#", x = 33, y = 18, zone = "Stranglethorn Vale" },
+			[12] = { str = "12. Бегите и убивайте крокодилов в точке 36,10 для задания  #DOQUESTSupply and Demand#" },
+			[13] = { str = "13. Идите в палаточный лагерь и сдайте 4 задания  #TURNINTiger Mastery pt.3#,  #TURNINPanther Mastery pt.3#,  #TURNINRaptor Mastery pt.2#, и  #TURNINHemet Nesingwary#, берите следующие задания  #ACCEPTTiger Mastery pt.4#   #ACCEPTPanther Mastery pt.4#  и  #ACCEPTRaptor Mastery pt.3#" },
 			[14] = { str = "14. Run back south to the top of the hill at 32,17 and kill Sin’Dall for  #DOQUESTTiger Mastery pt.4#  then turn it back in at Nessingways", x = 32, y = 17, zone = "Stranglethorn Vale" },
 			[15] = { str = "15. Go up to the rebel camp at 37,3 and hand in  #TURNINSupplies to Private Thorsen#, If he’s not here look south of the camp, if you save him when he patrols you can also get  #ACCEPTJungle Secrets#  then u turn that in at the camp and get  #ACCEPTBookie Herod#", x = 37, y = 3, zone = "Stranglethorn Vale" },
 			[16] = { str = "16. Hand in  #TURNINReturn to Corporal Kaleb#  get your helm" },
