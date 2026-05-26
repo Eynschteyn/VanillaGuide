@@ -256,9 +256,9 @@ Table_003_Alliance_30to40 = {
 			[33] = { str = "33. На данном этапе вы на половине пути к 37 уровню" },
 			[34] = { str = "34. Летите в Айронфордж, если вы ДРУИД летите в Штормград изучите новые навыки и летите Menethil Harbor, привяжите там Херстоун, и плывите на коробле в Theramore" },
 			[35] = { str = "35. Если навык First aid на отметке 225 выполните задание  #ACCEPTTriage#  Летите в Gadgetzan (Танарис)" },
-			[36] = { str = "36. Бегите на север в соседнюю локаци Shimmering Flats в точку 77,77 и сдайте задание  #TURNINParts for Kravel#  берите следующее  #ACCEPTDelivery to the Gnomes#  then turn around and hand it in", x = 77, y = 77, zone = "Stranglethorn Vale" },
-			[37] = { str = "37. Go a little East and hand in  #TURNINGoblin Sponsorship pt.5#  accept  #ACCEPTThe Eighteenth Pilot#  then hand it in 2 feet away, accept  #ACCEPTRazzeric's Tweaking#" },
-			[38] = { str = "38. Grab  #ACCEPTThe Rumormonger#  at 77,77 then Hearth to Menethil Harbor", x = 77, y = 77, zone = "Stranglethorn Vale" },
+			[36] = { str = "36. Бегите на север в соседнюю локаци Shimmering Flats в точку 77,77 и сдайте задание  #TURNINParts for Kravel#  берите следующее  #ACCEPTDelivery to the Gnomes#  затем сдайте его его.", x = 77, y = 77, zone = "Stranglethorn Vale" },
+			[37] = { str = "37. Идите на восток и сдайте квест  #TURNINGoblin Sponsorship pt.5#  и примите следующее  #ACCEPTThe Eighteenth Pilot#  сдайте его рядом и возьмите следующее  #ACCEPTRazzeric's Tweaking#" },
+			[38] = { str = "38. Возьмите задание  #ACCEPTThe Rumormonger#  в точке 77,77 и используйте Херстоун в Menethil Harbor", x = 77, y = 77, zone = "Stranglethorn Vale" },
 		}
 	},
 
@@ -271,15 +271,15 @@ Table_003_Alliance_30to40 = {
 		--itemCount = 10,
 		items = {
 			[1] = { str = "1. 36-37 Alterac Mountains" },
-			[2] = { str = "2. Go to the Town Hall and turn in  #TURNINFurther Mysteries#  accept  #ACCEPTDark Council#  and  #ACCEPTNoble Deaths#" },
-			[3] = { str = "3. Make Southshore your home" },
-			[4] = { str = "4. Run into Alterac Mountains to 47,55 and kill ogres for  Crushridge Bounty", x = 47, y = 55, zone = "Alterac Mountains" },
-			[5] = { str = "5. Grind up to Strahnbrad around 60,43 and kill the syndicate and grab their rings for  #DOQUESTNoble Deaths#  You can also kill shadow mages here for  #DOQUESTDark Council#   which is easier than killing them in the camps later", x = 60, y = 43, zone = "Alterac Mountains" },
-			[6] = { str = "6. Grind your way west to to the house at 39,16 and kill #NPCNagaz# for  #DOQUESTDark Council#. I take out the first camp you come across then grind anything in my way west that’s not in a camp. ", x = 39, y = 16, zone = "Alterac Mountains" },
-			[7] = { str = "7. You wanna be at least 2 bars from level 37, if so hearth to SS" },
-			[8] = { str = "8. Run across from the Inn, turn in  #TURNINCrushridge Bounty#  SKIP the next" },
-			[9] = { str = "9. Go in the Inn, turn in  #TURNINDark Council#  and  #TURNINNoble Deaths#" },
-			[10] = { str = "10. Fly to Arathi Highlands" },
+			[2] = { str = "2. Идите в Southshore и сдайте задание  #TURNINFurther Mysteries#  и возьмите  #ACCEPTDark Council#  и  #ACCEPTNoble Deaths#" },
+			[3] = { str = "3. Сделайте Southshore своим домом" },
+			[4] = { str = "4. Идите в Alterac Mountains в точку 47,55 и убивайте огров и получите Crushridge Bounty", x = 47, y = 55, zone = "Alterac Mountains" },
+			[5] = { str = "5. Идите и гриндите мобов до Strahnbrad в точке 60,43 и убивайте the syndicate и собирайте кольца для задания  #DOQUESTNoble Deaths#  Здесь можно убивать shadow mages для задания  #DOQUESTDark Council#  но проще их убивать в лагере чуть позже.", x = 60, y = 43, zone = "Alterac Mountains" },
+			[6] = { str = "6. Идите на северо-запад к дому в точке 39,16 и убейте #NPCNagaz# для задания  #DOQUESTDark Council#. Гриндите мобов около дома для достежения требований следующего шага гайда. ", x = 39, y = 16, zone = "Alterac Mountains" },
+			[7] = { str = "7. У вас должно быть не менее 2х делений до 37 уровня, затем используйте Hearthstone в Southshore" },
+			[8] = { str = "8. Выйдите из дома и сдайте задание  #TURNINCrushridge Bounty#  следующее задание ПРОПУСТИТЕ" },
+			[9] = { str = "9. Вернитесь обратно и сдайте 2 задания  #TURNINDark Council#  и  #TURNINNoble Deaths#" },
+			[10] = { str = "10. Летите в Arathi Highlands" },
 		}
 	},
 
