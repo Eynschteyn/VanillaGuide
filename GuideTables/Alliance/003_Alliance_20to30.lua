@@ -331,7 +331,7 @@ Table_003_Alliance_20to30 = {
             [1] = { str = "1. 29-30 Ashenvale" },
             [2] = { str = "2. Make Astranaar your home." },
             [3] = { str = "3. Stable your pet then head out East" },
-            [4] = { str = "4. #HUNTER) Tame an Elder Ashenvale Bear to the east of Raynewood Retreat, Give it growl and use if for the following#" },
+            [4] = { str = "4. #HUNTER3) Tame an Elder Ashenvale Bear to the east of Raynewood Retreat, Give it growl and use if for the following#" },
             [5] = { str = "5. Stop at 66,56 and touch the crystal for the first part of  #DOQUESTThe Tower of Althalaxx pt.6#.", x = 66, y = 56, zone = "Ashenvale" },
             [6] = { str = "6. Kill Withered Ancients for the Wooden Key for  #DOQUESTRaene’s Cleansing pt.4#  around 55,35 then use the key on the chest at 54,35", x = 55, y = 35, zone = "Ashenvale" },
             [7] = { str = "7. Run to 53,46 turn in  #TURNINRaene’s Cleansing pt.4#  accept  #ACCEPTRaene’s Cleansing pt.5#", x = 53, y = 46, zone = "Ashenvale" },
