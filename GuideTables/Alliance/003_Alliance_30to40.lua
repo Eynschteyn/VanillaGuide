@@ -173,7 +173,7 @@ Table_003_Alliance_30to40 = {
 		items = {
 			[1] = { str = "1. 33-35 Desolace" },
 			[2] = { str = "2. Сделайте Nijel’s Point в Desolace своим домом, а затем летите в Stonetalon и сдайте задание  #TURNINReclaiming the Charred Vale#  следующее задание ПРОПУСКАЕМ." },
-			[3] = { str = "3. Прожимаем #PICTUREHearth# и позврошаемся в Desolace" },
+			[3] = { str = "3. Прожимаем #PICTUREHearth# и возврошаемся в Desolace" },
 			[4] = { str = "4. Идите на юг от инкипера и сдайте задание  #TURNINReclaimers' Business#  в Desolace  и примите 2 задания  #ACCEPTReagents for Reclaimers Inc pt.1#  и  #ACCEPTThe Karnitol Shipwreck pt.1#" },
 			[5] = { str = "5. Я ПРОПУСКАЮ оба квеста с кентаврами разных фракций. Это просто бесполезная рутина ради двух квестов, которые того не стоят." },
 			[6] = { str = "6. Берем задание  #ACCEPTCentaur Bounty#" },
