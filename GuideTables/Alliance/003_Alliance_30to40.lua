@@ -251,7 +251,7 @@ Table_003_Alliance_30to40 = {
 			[28] = { str = "28. Идите на южный остров для выполнения задания по разветке территории  #DOQUESTThe Stone of the Tides#.  Вернитесь обратно и убивайте василисков если это необходимо." },
 			[29] = { str = "29. Жмите Hearthstone в Бути Бей (Пиратская бухта)" },
 			[30] = { str = "30. Сдайте задание  #TURNINSinging Blue Shards#  пока что ПРОПУСТИТЕ следующее задание." },
-			[31] = { str = "31. Поднимитесь наверх и сдайте 2 задания  #TURNINInvestigate the Camp#,  #TURNINBloodscalp Ears#" },
+			[31] = { str = "31. Поднимитесь наверх и сдайте 3 задания  #TURNINInvestigate the Camp#,  #TURNINBloodscalp Ears# и #TURNINHostile Takeover#"" },
 			[32] = { str = "32. Выйдите наружу и сдайте задание  #TURNINThe Stone of the Tides#  и  #TURNINGoblin Sponsorship pt.4#  примите следующие задания  #ACCEPTWater Elementals#  и  #ACCEPTGoblin Sponsorship pt.5#" },
 			[33] = { str = "33. Сдайте задание  #TURNINSupply and Demand#  (находится под полетчиком) и примите задание  #ACCEPTSome assembly required#" },
 			[34] = { str = "34. На данном этапе вы на половине пути к 37 уровню" },
