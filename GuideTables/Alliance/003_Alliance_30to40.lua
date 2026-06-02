@@ -78,15 +78,15 @@ Table_003_Alliance_30to40 = {
 		--itemCount = 10,
 		items = {
 			[1] = { str = "1. 31-32 Arathi Highlands" },
-			[2] = { str = "2. Accept  #ACCEPTNorthfold Manor#  grind to it at 33,27 I grind here until I’m level 32", x = 33, y = 27, zone = "Arathi Highlands" },
-			[3] = { str = "3. Hearth to Southshore, Fly to Refuge point, turn in  #TURNINNorthfold Manor#  Fly to IF" },
-			[4] = { str = "4. Go to the hall of explorers at 69,20 in IF accept  #ACCEPTReclaimers' Business# in Desolace  then go turn in  #TURNINLetter to Stormpike#  accept  #ACCEPTFurther Mysteries#", x = 69, y = 20, zone = "Arathi Highlands" },
-			[5] = { str = "5. Accept  #ACCEPTThe Brassbolts Brothers#  in The Hall of Arms at 72,93 then get new skills", x = 72, y = 93, zone = "Arathi Highlands" },
-			[6] = { str = "6. Make IF your home at 18,51 Buy some #NPCBloodstone Ore# for a quest later in STV. If there is none check the AH in Booty Bay", x = 18, y = 51, zone = "Arathi Highlands" },
-			[7] = { str = "7. Fly to SW" },
-			[8] = { str = "8. Go to the Keep at 72,15 and hand in  #TURNINReassignment#", x = 72, y = 15, zone = "Stormwind City" },
-			[9] = { str = "9. Go to 39,27 in the Cathedral and hand in  #TURNINCleansing the Eye#", x = 39, y = 27, zone = "Stormwind City" },
-			[10] = { str = "10. Fly to Duskwood, then run to 44,66 and go south into STV", x = 44, y = 66, zone = "Duskwood" }
+			[2] = { str = "2. Берите задание  #ACCEPTNorthfold Manor#  идите по координатам 33,27 выполните задание. Я в этом месте гриндил до 32 уровя.", x = 33, y = 27, zone = "Arathi Highlands" },
+			[3] = { str = "3. Жмите Hearth в Southshore далее летите Refuge point, сдайте задание  #TURNINNorthfold Manor#  и летите в IF (Стальгорн)" },
+			[4] = { str = "4. Идите к экспедиции в точку 69,20 в IF и возьмите задание  #ACCEPTReclaimers' Business#  в Desolace затем сдайте  #TURNINLetter to Stormpike#  и возьмите  #ACCEPTFurther Mysteries#", x = 69, y = 20, zone = "Arathi Highlands" },
+			[5] = { str = "5. Примите задание  #ACCEPTThe Brassbolts Brothers#  в The Hall of Arms в 72,93 затем можете идти и получить новые навыки у тренера", x = 72, y = 93, zone = "Arathi Highlands" },
+			[6] = { str = "6. Сделайте IF своим домом в точке 18,51 купите  #NPCLesser Bloodstone Ore# 4 штуки для задания в STV. Если руды нет проверьте на аукционе в Booty Bay", x = 18, y = 51, zone = "Arathi Highlands" },
+			[7] = { str = "7. Летите в SW (Штормград)" },
+			[8] = { str = "8. Отправляйтесь в крепость по координатам 72,15 и сдайте задание  #TURNINReassignment#", x = 72, y = 15, zone = "Stormwind City" },
+			[9] = { str = "9. Идите в точку 39,27 в цитадель и сдайте задание  #TURNINCleansing the Eye#", x = 39, y = 27, zone = "Stormwind City" },
+			[10] = { str = "10. Летите в Duskwood в точку 44,66 и идите на юг в сторону STV", x = 44, y = 66, zone = "Duskwood" }
 		}
 	},
 
@@ -96,7 +96,7 @@ Table_003_Alliance_30to40 = {
 		title = "32-32 Stranglethorn Vale",
 		--n = "32-32 Stranglethorn Vale",
 		--pID = 303, nID = 305,
-		--itemCount = 20,
+		--itemCount = 19,
 		items = {
 			[1] = { str = "1. 32-32 Stranglethorn Vale" },
 			[2] = { str = "2. Бегите к лагерю Rebel Camp по координатам 37,3.", x = 37, y = 3, zone = "Stranglethorn Vale" },
@@ -117,7 +117,6 @@ Table_003_Alliance_30to40 = {
 			[17] = { str = "17. Идите на корабль и плывите в Rachet" },
 			[18] = { str = "18. #PICTUREОткройте полетчика в Rachet'e#" },
 			[19] = { str = "19. Сейчас немного пробежимся по территории орды. Бегите на юг в Thousand Needles к лифтам. Если на вас напали прыгайте с лифта." },
-			[20] = { str = "20. ." },
 		}
 	},
 
@@ -402,13 +401,13 @@ Table_003_Alliance_30to40 = {
 			[25] = { str = "25. Поднимитесь на верх в гостинницу и возьмите  #ACCEPT“Up To Snuff”#" },
 			[26] = { str = "26. Выйдите на ружу и сдайте  #TURNIN“The Bloodsail Buccaneers pt.3”#  и возьмите следующее  #ACCEPT“The Bloodsail Buccaneers pt.4”#" },
 			[27] = { str = "27. У вас должны быть уже все траницы STV, если нет купите те которых вам не хватает. Страницы идут в таком порядке: 1,4,6,8, 10,11,14,16, 18,20,21,24, 25,26,27" },
-			[28] = { str = "28. Go up near Grom’Gol, search the shore there for the 38 elite croc for #DOQUEST“Excelsior”# stay away from the base or the guards will get you" },
-			[29] = { str = "29. Run up to Nessingways at 35,10 and turn in #TURNIN“Raptor Mastery pt.3”# and #TURNIN“Panther Mastery pt.4”#  accept #ACCEPT“Raptor Mastery pt.4”#", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[30] = { str = "30. Accept #ACCEPT“The Green Hills of Stranglethorn”# then turn it in" },
-			[31] = { str = "31. You should be at lest 25% or less to level 40 now go grind on basalisks and raptors around 33,39 until you’re 40.", x = 33, y = 39, zone = "Stranglethorn Vale" },
-			[32] = { str = "32. Hearth to BB" },
-			[33] = { str = "33. Go into the shop Tan-Your-Hide Leatherworks and turn in #TURNIN“Excelsior”#" },
-			[34] = { str = "34. Now fly to IF and accept #ACCEPT“Ironband Wants You”# from Prospector Stormpike at 74 11, and either to Darnassus to get your new skills and your mount, or get skills in IF and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
+			[28] = { str = "28. Идите к побережъю Grom’Gol и найдите элитных крокодилов 38 уровня для задания  #DOQUEST“Excelsior”#  опосайтесь охраны" },
+			[29] = { str = "29. Бегите в лагерь Nessingways в точке 35,10 и сдайте задания  #TURNIN“Raptor Mastery pt.3”#  и  #TURNIN“Panther Mastery pt.4”#  возьмите  #ACCEPT“Raptor Mastery pt.4”#", x = 35, y = 10, zone = "Stranglethorn Vale" },
+			[30] = { str = "30. Возьмите задание  #ACCEPT“The Green Hills of Stranglethorn”#  и сдайте его (страницы должны быть у вас в сумке)." },
+			[31] = { str = "31. У вас сейчас должно остаться до 40 уровня примерно 25% начинайте гриндить василисков и рапторов в точке 33,39 пока не достигните 40 уровня.", x = 33, y = 39, zone = "Stranglethorn Vale" },
+			[32] = { str = "32. Жмите Hearth в Booty Bay" },
+			[33] = { str = "33. Зайдите в магазин Tan-Your-Hide Leatherworks и сдайте задание  #TURNIN“Excelsior”#" },
+			[34] = { str = "34. Летите в IF и возьмите задание  #ACCEPT“Ironband Wants You”#  у Prospector Stormpike в точке 74,11. Далее летите к тренеру и выучите навыки и купите своего маунта  IF and prepare for a few badlands quests by buying a frost oil and a gyrochronatom (don’t by a gyro if you can’t find a frost oil) Then a healing potion and lesser invisibility potion. Again don’t get either of the potions if you can’t get a frost oil or gyro.", x = 74, y = 11, zone = "Iron Forge" },
 			[35] = { str = "35. Fly to Loch Modan, Stable your pet, and make Thelsamar your home" },
 			[36] = { str = "36. Go in the house behind the Inn, accept #ACCEPT“Badlands Reagent Run”#" },
 			[37] = { str = "37. Run to 65,65 and accept #ACCEPT“Find Agmond”#", x = 65, y = 65, zone = "Loch Modan" },
