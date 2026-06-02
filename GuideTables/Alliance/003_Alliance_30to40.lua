@@ -169,7 +169,7 @@ Table_003_Alliance_30to40 = {
 		title = "33-35 Desolace",
 		--n = "33-35 Desolace",
 		--pID = 306, nID = 308,
-		--itemCount = 38,
+		--itemCount = 39,
 		items = {
 			[1] = { str = "1. 33-35 Desolace" },
 			[2] = { str = "2. Сделайте Nijel’s Point в Desolace своим домом, а затем летите в Stonetalon и сдайте задание  #TURNINReclaiming the Charred Vale#  следующее задание ПРОПУСКАЕМ." },
