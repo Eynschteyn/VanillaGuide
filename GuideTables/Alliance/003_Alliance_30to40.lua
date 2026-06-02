@@ -65,7 +65,7 @@ Table_003_Alliance_30to40 = {
 			[7] = { str = "7. Идите в большое здание и сдайте задание  #TURNINSyndicate Assassins#  и  #TURNINForeboding Plans#  возьмите  #ACCEPTNoble Deaths#" },
 			[8] = { str = "8. Остановитесь у дома севернее гостиницы и сдайте задание  #TURNINEncrypted Letter#  берите следующее  #ACCEPTLetter to Stormpike#" },
 			[9] = { str = "9. Идите в сарай и сдайте задание  #TURNINCostly Menace#" },
-			[10] = { str = "10. #PICUTREЛетите в Refuge Point# (Нагорье Арати)" },
+			[10] = { str = "10. Летите в Refuge Point (Нагорье Арати)" },
 		}
 	},
 
