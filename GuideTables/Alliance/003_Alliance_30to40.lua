@@ -340,7 +340,7 @@ Table_003_Alliance_30to40 = {
 			[7] = { str = "7. Сразу при выходе из Theramore, поверните на право у побережъя убивайте Mudrock turtles для задания  #DOQUEST“Mudrock Soup and Bugs”#" },
 			[8] = { str = "8. Идите в точку 55,26 и возьмите задание со специями  #ACCEPT“Soothing Spices”# и сразу сдайте его, берите следующее  #ACCEPT“Jarl Needs eyes”#", x = 55, y = 26, zone = "Dustwallow Marsh" },
 			[9] = { str = "9. Возьмите задание у кучи земли рядом с домом и возьмите  #ACCEPT“The Orc Report”#" },
-			[10] = { str = "10. Отправляйтесь в пещеру 32,23 и убивайте spiders для задания  #DOQUEST“Jarl Needs eyes”#", x = 32, y = 23, zone = "Dustwallow Marsh" },
+			[10] = { str = "10. Отправляйтесь в пещеру 32,23 и убивайте пауков для задания  #DOQUEST“Jarl Needs eyes”#", x = 32, y = 23, zone = "Dustwallow Marsh" },
 			[11] = { str = "11. Остановись в точке 35,38 и возьмите задание  #ACCEPT“Hungry!”#", x = 35, y = 38, zone = "Dustwallow Marsh" },
 			[12] = { str = "12. Идите в точку 29,47, зайдите в сгоревшую гостинницу и возьмите 3 задания коснитесь следов копыт у входа и возьмите задание  #ACCEPT“Suspicious Hoofprints”#, значка лежащего на горелой доске (он маленький) и возьмите задание  #ACCEPT“Lieutenant Paval Reethe pt.1”# и щита над комином задание  #ACCEPT“The Black Shield pt.1”# ", x = 29, y = 47, zone = "Dustwallow Marsh" },
 			[13] = { str = "13. Идите в точку 54,56 и откройте ящик для задания  #DOQUEST“Razzeric's Tweaking”#", x = 54, y = 56, zone = "Dustwallow Marsh" },
