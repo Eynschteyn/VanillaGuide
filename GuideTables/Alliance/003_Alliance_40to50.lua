@@ -34,7 +34,7 @@ Table_003_Alliance_40to50 = {
 			[3] = { str = "3. Дойдите до точки 42,52 и сдайте задание  #TURNIN“Martek the Exiled”#  берите следующее  #ACCEPT“Indurium”#", x = 45, y = 52, zone = "Badlands" },
 			[4] = { str = "4. Возьмите задание  #ACCEPT“Barbecued Buzzard Wings”#  и  #ACCEPT“Pearl Diving”# (если вы купили ранее на аукционе жемчужины для задания) и сразу сдайте это задание." },
 			[5] = { str = "5. Стервятники нужны для выполнения 2х заданий. Паком обитают в точке 16,60 у каргата так что убивайте их всякий раз когда увидите на своем пути." },
-			[6] = { str = "6. Идите по координатам 25,44 возьмите задание  #ACCEPT“Study of the Elements: Rock pt.1”#  и  #ACCEPT“Coolant Heads Prevail”#  сдайте их и берите следующее  #ACCEPT“Gyro… What?”#  затем сдайте его если купили предмет на аукционе.", x = 25, y = 44, zone = "Badlands" },
+			[6] = { str = "6. Идите по координатам 25,44 возьмите задание  #ACCEPT“Study of the Elements: Rock pt.1”#  и  #ACCEPT“Coolant Heads Prevail”#  сдайте задание  #TURNIN“Coolant Heads Prevail”#  и берите следующее  #ACCEPT“Gyro… What?”#  затем сдайте его если купили предмет на аукционе.", x = 25, y = 44, zone = "Badlands" },
 			[7] = { str = "7. Возьмите задание  #ACCEPT“Liquid Stone”# выполните и сдайте его обратно" },
 			[8] = { str = "8. #HUNTERИдите в точку 20,53 и приручите Ridge Stalker Patriarch и выучите способность питомца dash и prowl 2го ранга.#", x = 20, y = 53, zone = "Badlands"},
 			[9] = { str = "9. Жмите #PICTUREHearth# в Thelsamar, #HUNTERзаберите кота обратно, НЕ ОТПУСКАЙТЕ ПЕТА идите обратно с катом в badlands#"},
