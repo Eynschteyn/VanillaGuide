@@ -284,10 +284,10 @@ Table_003_Alliance_40to50 = {
 			[1] = { str = "1. 45-46 Uldaman" },
 			[2] = { str = "2. Сейчас у вас есть выбор либо гриндить гнолов в Feralas в точке где вы не по далеку нашли рюкзак в дереве, либо отправляться в ульдаман я рекомендую сходить в ульдаман вы уже взяли несколько заданий туда еще несколько заданий можно взять в IF и Badlands. Сделайте все задания вы должны получить от 75% до 100% опыта необходимого для перехода не следующий уровень. Если пропустить этот этап то опыта не хватит для получения уровня и соответственно заданий и прийдется долго гриндить." },
 			[3] = { str = "3. I don’t list all the quests for Uldaman because there is a good handful and you don’t have to do them all to fully level, and again it is optional. This is much faster than grinding would be. I really hate to do instances when trying for the best time but alliance has less quests than the horde do and I did mention there will be about 10-15% of grinding on your way to 60. If you did do all instances though you would be really slowed down. This isn’t going to put a break in your time with a good group, preferrably guild groups of 45+" },
-			[4] = { str = "4. You can stop at about 75% to 46 but again I suggest you level. It’s not as bad as it seems." },
-			[5] = { str = "5. A great map of Uldaman and where the parts of most of the quests pieces can be done at is listed here on worldofwar.net" },
-			[6] = { str = "6. Once you’re all set, fly to SW and turn in #TURNIN“In Search of The Temple”# at 64,20 and accept #ACCEPT“In Search of The Hinterlands”# get new skills then fly to Southshore.", x = 64, y = 20, zone = "Stormwind" },
-			[7] = { str = "7. Run up to the path at 84,33 behind Durnholde Keep (you’ll see 2 griffins) into The Hinterlands", x = 84, y = 33, zone = "Tarren Mill" },
+			[4] = { str = "4. Можно остановиться примерно на 75% опыта на 46 уровне, но все же лучше прокачиваться дальше." },
+			[5] = { str = "5. Смотрите карту Ульдамана с точками необходимыми для выполнения и интернете если есть в этом трудности." },
+			[6] = { str = "6. Когда закончите проходить летите SW и сдайте задание  #TURNIN“In Search of The Temple”#  в точке 64,20 и возьмите следующее  #ACCEPT“In Search of The Hinterlands”#  изучите новые навыки и летите в Southshore.", x = 64, y = 20, zone = "Stormwind" },
+			[7] = { str = "7. Бегите по тропе в точку 84,33 вы увидите 2х грифонов идите дальше в The Hinterlands", x = 84, y = 33, zone = "Tarren Mill" },
 		}
 	},
 
