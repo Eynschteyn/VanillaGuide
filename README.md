@@ -12,6 +12,20 @@
   </p>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://github.com/Eynschteyn/VanillaGuide/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-English-2ea44f?style=for-the-badge" alt="Download RUS">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Eynschteyn/VanillaGuide/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-Portugu%C3%AAs_(BR)-2ea44f?style=for-the-badge" alt="Download PT-BR">
+  </a>
+</p>
+
+---
+
 
 VanillaGuide
 ============
@@ -41,6 +55,7 @@ VanillaGuide
 > **ПРИМЕЧАНИЕ:**
 > 
 > - Данный аддон не нужно воспринимать как пошаговую инструкцию так как в прокачке очень много ньюансов и если вы играете без сна то будут моменты когда нужно будет набивать опыт занимаясь гриндом мобов :)
+> - Все гайды были проверены на яде сервера Nostalrius и Kronos.
 
 Благодарности
 =======
