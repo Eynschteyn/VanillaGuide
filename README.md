@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-ShaguTweaks-2ea44f?style=for-the-badge" alt="Download"> 
   </a>  
  &nbsp;&nbsp;
+  <p align="center">
   <a href="https://github.com/Eynschteyn/Fonts/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-Fonts-2ea44f?style=for-the-badge" alt="Download"> 
   </a>
