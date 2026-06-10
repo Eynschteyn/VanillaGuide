@@ -29,10 +29,12 @@
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-pfQuest-2ea44f?style=for-the-badge" alt="Download">
   </a>
   &nbsp;&nbsp;
+  <p align="center">  
   <a href="https://github.com/Eynschteyn/ShaguKill/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-ShaguKill-2ea44f?style=for-the-badge" alt="Download">
   </a>  
- &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <p align="center">
   <a href="https://github.com/Eynschteyn/ShaguTweaks/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/%E2%AC%87%20Download-ShaguTweaks-2ea44f?style=for-the-badge" alt="Download"> 
   </a>  
