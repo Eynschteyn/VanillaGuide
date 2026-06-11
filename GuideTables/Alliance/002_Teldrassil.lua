@@ -13,6 +13,8 @@ Description: Guide Serie - 002 Teldrassil
 	1.04.3
 		-- Added color codes
 			Fixed various spelling errors
+	1.1.0
+        -- Проведен перевод и ауктуализация гайда	
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
