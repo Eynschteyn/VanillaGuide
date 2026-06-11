@@ -13,6 +13,8 @@ Description: Guide Serie - 001 Elwynn Forest
 	1.04.3
 		-- Added color codes
 			Fixed various spelling errors
+Автор перевода и актуализации: Eynschteyn
+Version: 1.1.0
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
@@ -55,16 +57,16 @@ Table_002_ElwynnForest = {
 			[27] = { str = "27. Выйдите из гостиницы и сдайте задание #TURNINReport to Goldshire# и возьмите задание #ACCEPTThe Fargodeep Mine#" },
 			[28] = { str = "28. Найдите своего тренера и выучите новые навыки." },
 			[29] = { str = "29. Подойдите к тележкам в точке 42,67 и возьмите задание #ACCEPTGold Dust Exchange#", x = 42, y = 67, zone = "Elwynn Forest" },
-			[30] = { str = "30. Go south to the Fargodeep Mine at 39,82 and kill the kobold until you complete all 3 quests #DOQUESTThe Fargodeep Mine#, #DOQUESTGold Dust Exchange#, and #DOQUESTKobold Candles# Make sure you go in the lower entrance so The Fargodeep Mine is easier", x = 39, y = 82, zone = "Elwynn Forest" },
-			[31] = { str = "31. Once all 3 are done go to the Stonefield Farm just up the hill east at 34,84 and accept #ACCEPTLost Necklace# SKIP #VIDEOPrincess Must Die!# if you cannot fight 3 mobs at a time.", x = 34, y = 84, zone = "Elwynn Forest" },
-			[32] = { str = "32. Go east to the Maclure Vinyard at 43,80 and accept #ACCEPTYoung Lovers#", x = 43, y = 80, zone = "Elwynn Forest" },
-			[33] = { str = "33. Go to 43,85 and turn in #TURNINLost Necklace# accept #ACCEPTPie For Billy# then kill boars until it’s finished.", x = 43, y = 85, zone = "Elwynn Forest" },
-			[34] = { str = "34. Go back west to 34,84 and turn in #TURNINPie For Billy# and accept #ACCEPTBack to Billy#", x = 34, y = 84, zone = "Elwynn Forest" },
-			[35] = { str = "35. Go west some to the river at 29,85 and turn in #TURNINYoung Lovers# accept #ACCEPTSpeak with Gramma#", x = 29, y = 85, zone = "Elwynn Forest" },
-			[36] = { str = "36. Go back to 34,84 and turn in #TURNINSpeak with Gramma# in the house, accept #ACCEPTNote to William#", x = 34, y = 84, zone = "Elwynn Forest" },
-			[37] = { str = "37. Run back east to 43,85 and turn in #TURNINBack to Billy# accept #ACCEPTGoldtooth#", x = 43, y = 85, zone = "Elwynn Forest" },
-			[38] = { str = "38. Go in the bottom entrance of the Fargodeep Mine at 39,82 and to about 41,78 inside and kill #NPCGoldtooth# for #DOQUESTGoldtooth# You should ding level 7 during this quest.", x = 41, y = 78, zone = "Elwynn Forest" },
-			[39] = { str = "39. Hearth back to Goldshire" },
+			[30] = { str = "30. Идите на юг к шахте Fargodeep Mine в точке 39,82 и убивайте кобольдов пока не выполните все 3 задания #DOQUESTThe Fargodeep Mine#, #DOQUESTGold Dust Exchange#, и #DOQUESTKobold Candles#. Заходите в шахту через нижний вход для того что бы выполнить задания было проще", x = 39, y = 82, zone = "Elwynn Forest" },
+			[31] = { str = "31. Когда выполните все 3 задания идите на ферму Stonefield Farm расположенную чуть выше по склону холма к востоку в точку 34,84 и возьмите задание #ACCEPTLost Necklace#, задание #VIDEOPrincess Must Die!# ПРОПУСТИТЕ ели вы знаете что не сможете убить 3х мобов сразу.", x = 34, y = 84, zone = "Elwynn Forest" },
+			[32] = { str = "32. Идите на восток к винограднику Maclure Vinyard в точку 43,80 и возьмите задание #ACCEPTYoung Lovers#", x = 43, y = 80, zone = "Elwynn Forest" },
+			[33] = { str = "33. Идите в точку 43,85 и сдайте задание #TURNINLost Necklace# и возьмите #ACCEPTPie For Billy# затем убивайте кабанов пока не выполните задание.", x = 43, y = 85, zone = "Elwynn Forest" },
+			[34] = { str = "34. Вернитесь на запад в точку 34,84 и сдайте задание #TURNINPie For Billy# и возьмите #ACCEPTBack to Billy#", x = 34, y = 84, zone = "Elwynn Forest" },
+			[35] = { str = "35. Идите на запад к реке в точку 29,85 и сдайте задание #TURNINYoung Lovers# и возьмите #ACCEPTSpeak with Gramma#", x = 29, y = 85, zone = "Elwynn Forest" },
+			[36] = { str = "36. Вернитесь в точку 34,84 и сдайте задание #TURNINSpeak with Gramma# в доме возьмите задание #ACCEPTNote to William#", x = 34, y = 84, zone = "Elwynn Forest" },
+			[37] = { str = "37. Идите на восток в точку 43,85 и сдайте задание #TURNINBack to Billy# и возьмите #ACCEPTGoldtooth#", x = 43, y = 85, zone = "Elwynn Forest" },
+			[38] = { str = "38. Войдите через нижний вход в шахту в точке 39,82 затем идите примерно до точки 41,78 и убейте #NPCGoldtooth# для задания #DOQUESTGoldtooth# Во время выполнения этого задания вы должны уже получить 7 уровень", x = 41, y = 78, zone = "Elwynn Forest" },
+			[39] = { str = "39. Жмите Hearth назад в Goldshire" },
 			[40] = { str = "40. In the Inn turn in #TURNINKobold Candles# accept #ACCEPTShipment to Stormwind# also turn in #TURNINNote to William# accept #ACCEPTCollecting Kelp#" },
 			[41] = { str = "41. Straight outside the Inn, turn in #TURNINThe Fargodeep Mine# accept #ACCEPTThe Jasperlode Mine#" },
 			[42] = { str = "42. South near the fence, turn in #TURNINGold Dust Exchange# You should have dinged level 7 now, accept #ACCEPTA Fishy Peril#" },
