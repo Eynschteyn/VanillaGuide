@@ -27,7 +27,7 @@ Table_003_Alliance_40to50 = {
 		title = "40-41 Badlands",
 		--n = "40-41 Badlands",
 		--pID = 312, nID = 402,
-		--itemCount = 38,
+		--itemCount = 37,
 		items = {
 			[1] = { str = "1. 40-41 Badlands" },
 			[2] = { str = "2. Идите в точку 53,43 берите задание  #ACCEPT“Fiery Blaze Enchantment”#,  #ACCEPT“Mirages”#,  и  #ACCEPT“A Dwarf and His Tools”#", x = 53, y = 43, zone = "Badlands" },
