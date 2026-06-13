@@ -130,7 +130,7 @@ Table_003_Alliance_40to50 = {
 			[9] = { str = "9. Вернитесь в точку 47,61 и сдайте задание  #TURNIN“Ghost-O-Plasm Round Up”#", x = 47, y = 61, zone = "Desolace" },
 			[10] = { str = "10. Жмите Hearth в Nijel’s Point" },
 			[11] = { str = "11. Сдайте задание  #TURNIN“Down the Scarlet Path”# следующее задание ПРОПУСТИТЕ." },
-			[12] = { str = "12. Идите южнее гостиницы поверните и сдайте задание  #TURNIN“Reagents For Reclaimers Inc pt.3”#  возьмите следующее  #ACCEPT“Reagents For Reclaimers Inc pt.4”#." },
+			[12] = { str = "12. Идите южнее гостиницы сдайте задание  #TURNIN“Reagents For Reclaimers Inc pt.3”#  возьмите следующее  #ACCEPT“Reagents For Reclaimers Inc pt.4”#." },
 			[13] = { str = "13. Летите в Theramore, далее плывите на коробле в Menethil и летите в Ironforge (Стальгорн)." },
 			[14] = { str = "14. Сдайте задание  #TURNIN“Reagents For Reclaimers Inc pt.4”# в точке 67,17.", x = 67, y = 17, zone = "Ironforge" },
 			[15] = { str = "15. Выучите новые навыки у классового тренера." },
