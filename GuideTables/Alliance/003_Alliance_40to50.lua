@@ -95,7 +95,7 @@ Table_003_Alliance_40to50 = {
 			[13] = { str = "13. Идите в точку 26,59 и сдайте задание  #TURNIN“The Lost Caravan”#  берите следующее задание  #ACCEPT“Driftwood”#", x = 26, y = 59, zone = "Swamp of Sorrows" },
 			[14] = { str = "14. Направляйся на юг в Blasted Lands в точку 36,59 к крепости Nethergarde Keep в точку 54,78. Откройте полетчика и летите Darkshire.", x = 54, y = 78, zone = "Blasted Lands" },
 			[15] = { str = "15. #HUNTERОставьте кошку в стойле и возьмите другую из Badlands.#" },
-			[16] = { str = "16. Возьмите задание  #ACCEPT“Supplies for Nethergarde”# по пути обратно на северо-восток" },
+			[16] = { str = "16. Возьмите задание  #ACCEPT“Supplies for Nethergarde”#" },
 			[17] = { str = "17. #PICTUREЛетите в крепость Nethergarde#, и сдайте задание  #TURNIN“Supplies for Nethergarde”#." },
 			[18] = { str = "18. Вернитесь обратно в Swamp of Sorrows." },
 			[19] = { str = "19. Бегите к озеру вогруг подземелья Sunken Temple в точке 70,54 и разведайте территорию для задания  #DOQUESTIn Search of The Temple#", x = 70, y = 54, zone = "Swamp of Sorrows" },
