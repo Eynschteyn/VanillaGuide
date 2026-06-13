@@ -27,7 +27,7 @@ Table_003_Alliance_40to50 = {
 		title = "40-41 Badlands",
 		--n = "40-41 Badlands",
 		--pID = 312, nID = 402,
-		--itemCount = 37,
+		--itemCount = 39,
 		items = {
 			[1] = { str = "1. 40-41 Badlands" },
 			[2] = { str = "2. Идите в точку 53,43 берите задание  #ACCEPT“Fiery Blaze Enchantment”#,  #ACCEPT“Mirages”#,  и  #ACCEPT“A Dwarf and His Tools”#", x = 53, y = 43, zone = "Badlands" },
@@ -65,8 +65,10 @@ Table_003_Alliance_40to50 = {
 			[33] = { str = "33. Идите в дом за гостиницей и сдайте задание  #TURNIN“Badlands Reagent Run”#  берите часть заданий относящиеся к Uldaman" },
 			[34] = { str = "34. Бегите в точку 65,65 и сдайте задание  #TURNIN“Murdaloc”#  берите еще задание Uldaman. Сейчас я уже заполнил полоску опыта на 25% до 41 уровня", x = 65, y = 65, zone = "Loch Modan" },
 			[35] = { str = "35. Летите в SW и идите в точку 64,20 и возьмите задание  #ACCEPT“In Search of The Temple”#", x = 64, y = 20, zone = "Stormwind" },
-			[36] = { str = "36. Летите в Duskwood и сделайте его своим домом" },
-			[37] = { str = "37. Бегите в Swamp of Sorrows" },
+			[36] = { str = "36. Возьмите еще одно задание в башне по координатам 37,81 #ACCEPT“Vital Supplies”#" },
+			[37] = { str = "37. Летите в Duskwood и сдайте задание #TURNIN“Vital Supplies”# у дома, следующее задание пока ПРОПУСТИТЕ" },
+			[38] = { str = "38. Сделайте Duskwood своим домом" },
+			[39] = { str = "39. Бегите в Swamp of Sorrows" },
 		}
 	},
 
