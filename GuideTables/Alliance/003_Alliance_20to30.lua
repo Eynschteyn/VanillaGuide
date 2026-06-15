@@ -17,6 +17,8 @@ Description: Guide Serie - 003 From Lvl 20 to Lvl 30
         -- Added Hunter Sepecfic steps
         -- Added Numbered steps to 29-30 Ashenvale 
         -- Still do in this section add numbered steps to rest of this guide, add qoutes to Quests, add COORDS color to travel directions, and check to see if NPC color has been missed used
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
