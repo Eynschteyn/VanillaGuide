@@ -17,8 +17,8 @@ Description: Guide Serie - 003 From Lvl 30 to Lvl 40
         -- Added Hunter Sepecfic steps
         -- Added Numbered steps to 33-35 Desolace 
         -- Still do in this section add numbered steps to rest of this guide, add qoutes to Quests, add COORDS color to travel directions, and check to see if NPC color has been missed used
-	1.06.0 
-		-- Выполнен перевод гайда с английского на русский язык. Добавлены небольшие правки.
+	1.1.0
+		-- Автор перевода и актуализации: Eynschteyn
 ------------------------------------------------------
 Connection:
 --]]--------------------------------------------------
