@@ -167,7 +167,7 @@ Table_003_Alliance_40to50 = {
 			[18] = { str = "18. Убейте #NPCTethis# для задания #DOQUEST“Raptor Mastery pt.4”#  за ареной в точке 31,43 затем сдайте его в лагере nessingways в точке 35,10 и возьмите следующее задание  #ACCEPT“Big Game Hunter”#", x = 31, y = 43, zone = "Stranglethorn Vale" },
 			[19] = { str = "19. Идите к лагерю повстанцев в точке 38,3 и возьмите задание  #ACCEPT“Colonel Kurzen”#.", x = 38, y = 3, zone = "Stranglethorn Vale" },
 			[20] = { str = "20. Идите в пещеру координаты 45,8 go to the fork and go down once like earlier kill the elites and subchiefs (when they get a red aura stop your pet from hitting them or he’ll get owned) for #DOQUEST“Colonel Kurzen”# Kurzen is at 49,3 ", x = 49, y = 3, zone = "Stranglethorn Vale" },
-			[21] = { str = "21. Специально умрите стобы оказаться рядом с лагере повстанцев." },
+			[21] = { str = "21. Специально умрите чтобы оказаться рядом с лагере повстанцев." },
 			[22] = { str = "22. Идите в лагерь повстанцев в точку 38,3 и сдайте задание  #TURNIN“Colonel Kurzen”#.", x = 38, y = 3, zone = "Stranglethorn Vale" },
 			[23] = { str = "23. Убивайте тролей в точке 44,34 пока не наберете примерно 9000 опыта до повышения уровня.", x = 44, y = 34, zone = "Stranglethorn Vale" },
 			[24] = { str = "24. Жмите Hearth в Booty Bay" },
