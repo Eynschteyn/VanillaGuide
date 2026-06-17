@@ -191,7 +191,7 @@ Table_003_Alliance_40to50 = {
 			[1] = { str = "1. 43-43 Tanaris" },
 			[2] = { str = "2. Возьмите задания  #ACCEPT“Wastewander Justice”# и  #ACCEPT“Water Pouch Bounty”#." },
 			[3] = { str = "3. Сделайте Gadgetzan своим домом." },
-			[4] = { str = "4. Идите в двери клетки и возьмите 2 задания с таблички  #ACCEPT“WANTED: Caliph Scorpidsting”#  и  #ACCEPT“WANTED: Andre Firebeard”#." },
+			[4] = { str = "4. Идите к двери клетки и возьмите 2 задания с таблички  #ACCEPT“WANTED: Caliph Scorpidsting”#  и  #ACCEPT“WANTED: Andre Firebeard”#." },
 			[5] = { str = "5. Сдайте задание  #TURNIN“Tran'Rek”# следующее задание ПРОПУСТИТЕ." },
 			[6] = { str = "6. С левой стороны города на холме возьмите задание  #ACCEPT“Gadgetzan Water Survey”#" },
 			[7] = { str = "7. Идите на север в соседнюю локацию The Shimmering Flats в точку 77,77 и сдайте задание  #TURNIN“Rumors for Kravel”#  и возьмите следующее  #ACCEPT“Back to Booty Bay”#", x = 77, y = 77, zone = "Thousand Needles" },
