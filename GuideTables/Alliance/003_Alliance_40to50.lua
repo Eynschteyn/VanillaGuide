@@ -176,7 +176,7 @@ Table_003_Alliance_40to50 = {
 			[27] = { str = "27. Спуститесь к банку и сдайте задание  #TURNIN“Akiris By the Bundle pt.1”#  и возьмите следующее  #ACCEPT“Akiris By the Bundle pt.2”#" },
 			[28] = { str = "28. Идите к дому около полулодки и сдайте задание  #TURNIN“Voodoo Dues”#  возьмите следующее  #ACCEPT“Cracking Maury's Foot”#" },
 			[29] = { str = "29. Плывите на лодке до Rachet затем летите в Theramore." },
-			[30] = { str = "30. Сдайте задание  #TURNIN“Akiris By the Bundle pt.2”#  перед собой и летите в Gadgetzan" },
+			[30] = { str = "30. Сдайте задание  #TURNIN“Akiris By the Bundle pt.2”#  на пристани и летите в Gadgetzan" },
 		}
 	},
 
