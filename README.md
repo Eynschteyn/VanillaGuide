@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/Eynschteyn/VanillaGuide/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-Russian-2ea44f?style=for-the-badge" alt="Download RUS">
+    <img src="https://img.shields.io/badge/%E2%AC%87%20Download-VanillaGuideRUS-2ea44f?style=for-the-badge" alt="Download RUS">
   </a>
 </p>
 
