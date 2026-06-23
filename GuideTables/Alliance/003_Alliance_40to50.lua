@@ -265,7 +265,7 @@ Table_003_Alliance_40to50 = {
 			[30] = { str = "30. Нажмите правой кнопкой на рюкзак который вам только что упал в сумку и возьмите задание  #ACCEPT“Thalanaar Delivery”#, если квест лог полон отмените задание в ульдаман A Sing of Hope" },
 			[31] = { str = "31. Спускайтесь к улию в точку 73,63 и идите до самого низа. Войдите в южный тунель и держитесь правой стороны там увидите кокон Zukk’Ash Pod Сдайте задание  #TURNIN“The Writhing Deep”#  и возьмите задание  #ACCEPT“Freed From the Hive”#, дождитесь окончания эвента", x = 73, y = 63, zone = "Feralas" },
 			[32] = { str = "32. Жмите Hearth в Feathermoon" },
-			[33] = { str = "33. Со стороны воды у беседки сдайте задание  #TURNIN“The Mark of Quality”#  и возьмите новое  #ACCEPT“Improved Quality”#" },
+			[33] = { str = "33. Со стороны воды в беседке сдайте задание  #TURNIN“The Mark of Quality”#  и возьмите новое  #ACCEPT“Improved Quality”#" },
 			[34] = { str = "34. Идите в небольшой дом на против гостиницы и сдайте задание  #TURNIN“The High Wilderness”#  затем поднимитесь на верх и сдайте  #TURNIN“Freed From the Hive”#  и возьмите  #ACCEPT“A Hero’s Welcome”#" },
 			[35] = { str = "35. Идите в соседнее большое здание сдайте  #TURNIN“A Hero’s Welcome”#  и возьмите  #ACCEPT“Rise of the Silithid”#" },
 			[36] = { str = "36. Летите в Thalanaar (полетчик между тысячей игл и фераласом) сдайте  #TURNIN“Thalanaar Delivery”# в точке 89,46", x = 89, y = 46, zone = "Feralas" },
