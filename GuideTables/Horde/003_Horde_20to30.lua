@@ -39,7 +39,7 @@ Table_003_Horde_20to30 = {
 			[14] = { str = "13) Then go do #DOQUEST\"Boulderslide Ravine\"# (at 61.92)", x = 61, y = 92, zone = "Stonetalon Mountains" },
 			[15] = { str = "14) Then turn in #TURNIN\"Blood Feeders\"# (71.95)", x = 71, y = 95, zone = "Stonetalon Mountains" },
 			[16] = { str = "15) Turn in #TURNIN\"Goblin Invaders\"# (at 35.27 in the Barrens) ... accept #ACCEPT\"Shredding Machines\"#   (I SKIP \"#NPCThe Elder Crone\"# )", x = 35, y = 27, zone = "The Barrens" },
-			[17] = { str = "16) Hearth to XRs." },
+			[17] = { str = "16) Hearth to Crossroads." },
 			[18] = { str = "17) Run north to Ashenvale (stopping along the way to turn in #TURNIN\"Report to Kadrak\"# (at 48.5) but SKIP \"#NPCThe Warsong Reports\"# ", x = 48, y = 5, zone = "The Barrens" },
 			--[19] = { str = "." },
 			--[20] = { str = "." },
@@ -62,7 +62,7 @@ Table_003_Horde_20to30 = {
 			[6] = { str = "05) Get FP there. (12.33).  Turn in #TURNIN\"Trouble in the Deeps\"# .. i SKIP \"#NPCThe Essence of Aku'Mai\"# ", x = 12, y = 33, zone = "Ashenvale" },
 			[7] = { str = "06) Do the following quests:" },
 			[8] = { str = "07) Accept and do #DOQUEST\"Naga at the Zoram Strand\"# then turn it in." },
-			[9] = { str = "08) Hearth back to XRs, if hearth stone is still on a cooldown, fly there." },
+			[9] = { str = "08) Hearth back to Crossroads, if hearth stone is still on a cooldown, fly there." },
 			--[10] = { str = "." },
 			--[11] = { str = "." },
 		}
