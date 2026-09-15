@@ -141,7 +141,7 @@ Table_003_Horde_20to30 = {
 			[4] = { str = "4. Возьмите заадние #ACCEPT\"A New Ore Sample\"# (необходим 25 уровень)" },
 			[5] = { str = "5. Идите в низ и сдайте:" },
 			[6] = { str = "6. #DOQUEST\"Enraged Thunder Lizards\"#" },
-			[7] = { str = "7. Вам нужно найти моба #NPCWashte Pawne# примерно в точке 43,80 с него падает предмет 'Washte Pawne Feather' он начинает задание #ACCEPT\"Washte Pawne\"#" },
+			[7] = { str = "7. Вам нужно найти моба #NPCWashte Pawne# примерно в точке 44,75 с него падает предмет 'Washte Pawne Feather' он начинает задание #ACCEPT\"Washte Pawne\"#(у него несколько точек спавна в районе указанных координат просто ищите)" },
 			[8] = { str = "8. Выполните задание #DOQUEST\"Revenge of Gann\"# в точке 47,85 сдайте его и выполните следующую часть", x = 47, y = 85, zone = "The Barrens" },
 			[9] = { str = "9. Выполните задание #DOQUEST\"Revenge of Gann\"# часть 3 в точке 46,85, а затем сдайте его", x = 46, y = 85, zone = "The Barrens" },
 			[10] = { str = "10. Направляйтесь на юг по тропе в Great Lift по координатам 44,91 в barrens'e и сдайте задание #TURNIN\"Calling in the Reserves\"#", x = 44, y = 91, zone = "The Barrens" },
