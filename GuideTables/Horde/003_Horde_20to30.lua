@@ -203,7 +203,7 @@ Table_003_Horde_20to30 = {
 			[11] = { str = "11. Убейте #NPCShadumbra# в точке 56,54 для задания #DOQUEST\"Shadumbra's Head\"# (3 задание из блока Ashenvale hunt)", x = 56, y = 54, zone = "Ashenvale" },
 			[12] = { str = "12. Выполните заадние #DOQUEST\"The sacred Flame\"# (найдите флакон убивая дриад в точке 61,52 затем наполните его в лунном колодце в точке 60,72)", x = 60, y = 72, zone = "Ashenvale" },
 			[13] = { str = "13. Жмите Hearth в Splintertree Post и сдайте заадния #TURNIN\"Stonetalon Standstill\"#, #TURNIN\"The Befouled Element\"# затем возьмите задание #ACCEPT\"Je'neu of the Earthen Ring\"#, далее сдайте #TURNIN\"Torek's Assault\"# и все задания из блока 'Ashenvale Hunt' затем возьмите и выполните задание #TURNIN\"The Hunt Completed\"#" },
-			[14] = { str = "14. Ветите в Zoram Strand и сдайте заадние #TURNIN\"Je'neu of the Earthen Ring\"#" },
+			[14] = { str = "14. Летите в Zoram Strand и сдайте заадние #TURNIN\"Je'neu of the Earthen Ring\"#" },
 			[15] = { str = "15. Возьмите и выполните задание #DOQUEST\"Vorsha the Lasher\"#. После завершения вернитесь и сдайте его" },
 			[16] = { str = "16. Возьмите и выполните задания: #DOQUEST\"Between a Rock and a Thistlefur\"# в точке 34,37 и #DOQUEST\"Troll Charm\"# пещера в точке 38,30. #VIDEONOTE:#В пещере вы встретите друида с заданием на сопровождение #DOQUEST\"Freedom to Ruul\"#, постарайтесь выполнить это задание вам прийдется несколько раз сражаться с 3-5 мобами, если не получится можете это задание пропустить", x = 34, y = 37, zone = "Ashenvale" },
 			[17] = { str = "17. Выполнив оба задания #TURNIN\"Between a Rock and a Thistlefur\"# и #TURNIN\"Troll Charm\"# сдайте их (на берегу Zoram Strand)" },
