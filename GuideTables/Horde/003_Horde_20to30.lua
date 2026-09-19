@@ -232,7 +232,7 @@ Table_003_Horde_20to30 = {
 			[5] = { str = "5. Сдайте заадние #TURNIN\"Bloodfury Bloodline\"#" },
 			[6] = { str = "6. Летите в Thunder Bluff" },
 			[7] = { str = "7. Сделайте Thunder Bluff своим домом" },
-			[8] = { str = "8. Сдайте задание #TURNIN\"The sacred Flame\"# в точке 54,51 в TB и возьмите задание #ACCEPT\"The sacred Flame\"# часть 2", x = 54, y = 51, zone = "Thunder Bluff" },
+			[8] = { str = "8. Сдайте задание #TURNIN\"The sacred Flame\"# в точке 54,51 и возьмите вторую часть задания #ACCEPT\"The sacred Flame\"# часть 2", x = 54, y = 51, zone = "Thunder Bluff" },
 			[9] = { str = "9. Летите в Thousand Needles" },
 		}
 	},
