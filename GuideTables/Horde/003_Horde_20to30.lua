@@ -248,7 +248,7 @@ Table_003_Horde_20to30 = {
 			[1] = { str = "1. 27-29 Thousand Needles" },
 			[2] = { str = "2. Сдайте задание #TURNIN\"The sacred Flame\"# и возьмите #ACCEPT\"The sacred Flame\"# часть 3" },
 			[3] = { str = "3. Я делаю дальнейшие действия в таком порядке:" },
-			[4] = { str = "4. Выполните задание #DOQUEST\"The sacred Flame\"# (зажгите жаровню в пещере по координатам 44,37)", x = 44, y = 37, zone = "Thousand Needles" },
+			[4] = { str = "4. Выполните задание #DOQUEST\"The sacred Flame\"# (Используйте жаровню в пещере вход в нее по координатам 44,37)", x = 44, y = 37, zone = "Thousand Needles" },
 			[5] = { str = "5. Идите в Whitereach Post 21,32 и возьмите заадние #ACCEPT\"Hypercapacitor Gizmo\"# затем сдай #TURNIN\"Serpent Wild\"# и возьми #ACCEPT\"Sacred Fire\"#", x = 21, y = 32, zone = "Thousand Needles" },
 			[6] = { str = "6. Выполните задание #DOQUEST\"Sacred Fire\"# в точке 35,36", x = 35, y = 36, zone = "Thousand Needles" },
 			[7] = { str = "7. Выполните задание #DOQUEST\"Wind Rider\"# в точке 11,36", x = 11, y = 36, zone = "Thousand Needles" },
