@@ -197,7 +197,7 @@ Table_003_Horde_20to30 = {
 			[5] = { str = "5. Убейте первого моба из трех по блоку заданий Ashenvale hunt:" },
 			[6] = { str = "6. Выполните задание #DOQUEST\"Sharptalon's Claw\"# (убейте #NPCSharptalon# (потрулирует по координатам 74,70), с него выпадет предмет который начинает задание берите его) (подсказка: если убить его сложно (моб 31 уровня), когда у моба останется около 30% здоровья ведите его к охране в Splintertree Post, они его добъют", x = 74, y = 70, zone = "Ashenvale" },
 			[7] = { str = "7. Выполните задания: #DOQUEST\"Ashenvale Outrunners\"# (в точке 71,72) #HUNTER (используйте трек на обнаружение невидимости).# После завершения задания сдайте его при первой же возможности", x = 71, y = 72, zone = "Ashenvale" },
-			[8] = { str = "8. Идите на запад и выполните задание #DOQUEST\"Torek's Assault\"# в точке 68,75", x = 68, y = 75, zone = "Ashenvale" },
+			[8] = { str = "8. Идите на запад возьмите и выполните задание #ACCEPT\"Torek's Assault\"# в точке 68,75", x = 68, y = 75, zone = "Ashenvale" },
 			[9] = { str = "9. Затем выполните задание #DOQUEST\"Stonetalon Standstill\"# (озеро в точке 53,70) *найдите и убейте #NPCTideress# с него падает предмет начинающий заадние: #ACCEPT\"The Befouled Element\"#", x = 53, y = 70, zone = "Ashenvale" },
 			[10] = { str = "10. Убейте #NPCUrsangous#, в точке 42,67 для задания #DOQUEST\"Ursangous's Paw\"# (2 задание из блока Ashenvale hunt)", x = 42, y = 67, zone = "Ashenvale" },
 			[11] = { str = "11. Убейте #NPCShadumbra# в точке 56,54 для задания #DOQUEST\"Shadumbra's Head\"# (3 задание из блока Ashenvale hunt)", x = 56, y = 54, zone = "Ashenvale" },
