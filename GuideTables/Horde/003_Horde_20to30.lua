@@ -174,11 +174,12 @@ Table_003_Horde_20to30 = {
 			[14] = { str = "14. Жмите Hearth в Camp Taurajo" },
 			[15] = { str = "15. Сдайте задания #TURNIN\"Enraged Thunder Lizards\"# и #TURNIN\"Washte Pawne\"# заем возьмите задание #ACCEPT\"Cry of the Thunderhawk\"#" },
 			[16] = { str = "16. Сдайте задание #TURNIN\"A New Ore Sample\"#" },
-			[17] = { str = "17. Выполните заание #DOQUEST\"Cry of the Thunderhawk\"#, а затем сдайте его. Я ПРОПУСКАЮ задание \"#NPCMahren Skyseer\"#" },
+			[17] = { str = "17. Выполните заание #DOQUEST\"Cry of the Thunderhawk\"#, а затем сдайте его. Если у вас есть задание #COORDS\"Chen's Empty Keg\"# тогда можете взять задание #ACCEPTMahren Skyseer\"# если задания с бочкой нет то ПРОПУСТИТЕ задание" },
 			[18] = { str = "18. Летите в Thunder Bluff и выучите способности у своего классового тренера" },
 			[19] = { str = "19. Сдайте задание #TURNIN\"Melor Sends Word\"# в точке 61,80 на Hunter Rise и возьмите задание #ACCEPT\"Steelsnap\"#", x = 61, y = 80, zone = "Thunder Bluff" },
 			[20] = { str = "20. Возьмите заадние #ACCEPT\"The sacred Flame\"# в точке 55,51", x = 55, y = 51, zone = "Thunder Bluff" },
-			[21] = { str = "21. Летите в Splintertree Post, Ashenvale" },
+			[21] = { str = "21. Если у вас есть 2 задания #COORDS\"Chen's Empty Keg\"# и #COORDS\"Mahren Skyseer\"# летите в Ratchet и сдайте их. Задание #DOQUEST\"Isha Awak\"# ПРОПУСТИТЕ" },
+			[22] = { str = "22. Далее летите в Splintertree Post, Ashenvale" },
 		}
 	},
 
