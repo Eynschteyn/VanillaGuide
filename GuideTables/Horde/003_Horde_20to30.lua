@@ -269,7 +269,7 @@ Table_003_Horde_20to30 = {
 			[22] = { str = "22. Сейчас вы должны быть 29 уровня если нет гриндите мобов пока его не достигните. Я фармлю опыт на кентаврах в точке 18,23", x = 18, y = 23, zone = "Thousand Needles" },
 			[23] = { str = "23. Выполните задание #DOQUEST\"Hypercapacitor Gizmo\"# (Элитное) (Убей мобов вокруг клетки в точке 22,24 освободи моба и убей его, #HUNTERиспользуй огненную ловушку или фир)", x = 22, y = 24, zone = "Thousand Needles" },
 			[24] = { str = "24. Убейте #NPCGalak Messenger# с него падает 'Assassination Note' она начинает задание #ACCEPT\"Assassination Plot\"# сдайте это задание. Так же сдайте заадние #TURNIN\"Hypercapacitor Gizmo\"#" },
-			[25] = { str = "25. Затем выполните задание: #DOQUEST\"Protect Kanati Greycloud\"#" },
+			[25] = { str = "25. Затем возьмите и выполните задание: #ACCEPT\"Protect Kanati Greycloud\"#" },
 			[26] = { str = "26. ПРИМЕЧАНИЕ:  Если до 30 уровня вам не хватает около 4 клеток опыта гриндите мобов пока не наберете их. (этот пункт на случай если вы бежите вперед поровоза)" },
 			[27] = { str = "27. Жмите hearth в Freewind Post" },
 			[28] = { str = "28. Сдайте задания #TURNIN\"Free at Last\"#, #TURNIN\"Wanted - Arnak Grimtotem\"# и #TURNIN\"Grimtotem Spying\"#" },
