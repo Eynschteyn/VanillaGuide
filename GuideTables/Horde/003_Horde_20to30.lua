@@ -305,10 +305,10 @@ Table_003_Horde_20to30 = {
 			[11] = { str = "11. Затем возвращайтесь в Hillsbrad" },
 			[12] = { str = "12. Сдайте задание #TURNIN\"Helcular's Revenge\"# и возьмите следующую часть" },
 			[13] = { str = "13. Сдайте задание #TURNIN\"Elixir of Suffering\"# и возьммте следующую часть и тут же сдайте его жабе. Далее берите задание #ACCEPT\"Elixir of Pain\"#" },
-			[13] = { str = "13. Вернись в пещеру йети" },
-			[14] = { str = "14. Используйте The Flame of Azel и the Flame of Veraz, для задания #DOQUEST\"Helcular's Revenge\"#" },
-			[15] = { str = "15. ПОМЕТКА:Я бью йети пока мой пет не получит следующий уровень" },
-			[16] = { str = "16. Поднимитесь в Alterac Mountains" },
+			[14] = { str = "14. Вернись в пещеру йети" },
+			[15] = { str = "15. Используйте The Flame of Azel и the Flame of Veraz, для задания #DOQUEST\"Helcular's Revenge\"#" },
+			[16] = { str = "16. ПОМЕТКА:Я бью йети пока мой пет не получит следующий уровень" },
+			[17] = { str = "17. Поднимитесь в Alterac Mountains" },
 		}
 	},
 }
