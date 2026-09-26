@@ -79,7 +79,7 @@ Table_003_Horde_30to40 = {
 			[1] = { str = "1. 30-31 Stranglethorn Vale" },
 			[2] = { str = "2. Откройте полетчика в BB и бегите в Grom'Gol (откройте полетчика и там)" },
 			[3] = { str = "3. Идите на север в точку 35,10 и начинайте выполнять задания на охоту в STV:", x = 35, y = 10, zone = "Stranglethorn Vale" },
-			[4] = { str = "4. Возьмите и сдайте задание #DOQUEST\"Welcome to the Jungle\"#" },
+			[4] = { str = "4. Возьмите и сдайте задание #DOQUEST\"Welcome to the Jungle\"# и сдайте его дворфу" },
 			[5] = { str = "5. Выполниет заадние #DOQUEST\"Tiger Mastery\"# убивайте #NPCYoung Stranglethorn Tigers#в точке 33,10", x = 33, y = 10, zone = "Stranglethorn Vale" },
 			[6] = { str = "6. Выполните задание #DOQUEST\"Panther Mastery\"# убивайте #NPCYoung Panthers# в точке 41,9", x = 41, y = 9, zone = "Stranglethorn Vale" },
 			[7] = { str = "7. Выполните задание #DOQUEST\"Panther Mastery\"# убивайте #NPCPanthers# в точке 30,11", x = 30, y = 11, zone = "Stranglethorn Vale" },
