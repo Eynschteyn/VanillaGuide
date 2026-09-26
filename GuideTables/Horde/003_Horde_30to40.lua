@@ -60,7 +60,7 @@ Table_003_Horde_30to40 = {
 			[12] = { str = "12. Жмите Hearth в Orgrimmar" },
 			[13] = { str = "13. Летите в Crossroads" },
 			[14] = { str = "14. Идите на запад в Crossroads и возьмите задание #ACCEPT\"The Swarm Grows\"#" },
-			[15] = { str = "15. Затем бегите на запад от Crossroads к персонажу в хижине и возьмите заадние #ACCEPT\"The Kolkar of Desolace\"#" },
+			[15] = { str = "15. Затем бегите на запад от Crossroads к персонажу в бункере и возьмите заадние #ACCEPT\"The Kolkar of Desolace\"#" },
 			[16] = { str = "16. Вернитесь в Crossroads" },
 			[17] = { str = "17. Сделайте Crossroads своим домом" },
 			[18] = { str = "18. Летите в Ratchet" },
