@@ -117,9 +117,9 @@ Table_003_Horde_30to40 = {
 			[9] = { str = "9. Жмите Hearth в Crossroads" },
 			[10] = { str = "10. Летите в Orgrimmar" },
 			[11] = { str = "11. Сдайте задание #TURNIN\"The Swarm Grows\"# в точке 75,34 и возьмите #ACCEPT\"The Swarm Grows\"# часть 2", x = 75, y = 34, zone = "Orgrimmar" },
-			[12] = { str = "12. Возьмите задание #ACCEPT\"Alliance Relations\"# (его можно получить у Craven Drok в Cleft of Shadow в точке 47,50 НПС передвигается ищите его если его нет в указанной точке)", x = 47, y = 50, zone = "Orgrimmar" },
-			[13] = { str = "13. Затем идите к #NPCKeldran# в Orgrimmar по координатам 23,53 что бы взять вторую часть задания #ACCEPT\"Alliance Relations\"# часть 2", x = 23, y = 53, zone = "Orgrimmar" },
-			[14] = { str = "14. Зайдите к тренеру first aid и выучите новые навыки если нужно. #VIDEONOTE:# оставьте остатки ткани в танке она нам еще пригодится в дальнейшем" },
+			[12] = { str = "12. Возьмите задание #ACCEPT\"Alliance Relations\"# (его можно получить у Craven Drok в Cleft of Shadow в точке 47,50 НПС передвигается ищите его в этом зале)", x = 47, y = 50, zone = "Orgrimmar" },
+			[13] = { str = "13. Затем идите к #NPCKeldran# в Orgrimmar по координатам 23,53 сдайте задание #TURNIN\"Alliance Relations\"# часть 1 и возьмите #ACCEPT\"Alliance Relations\"# часть 2", x = 23, y = 53, zone = "Orgrimmar" },
+			[14] = { str = "14. Зайдите к тренеру first aid и выучите новые навыки если нужно. #VIDEONOTE:#оставьте остатки ткани в банке она нам еще пригодится в дальнейшем" },
 			[15] = { str = "15. Затем летите в Stonetalon Mountains" },
 			[16] = { str = "16. Бегите в Desolace" },
 		}
