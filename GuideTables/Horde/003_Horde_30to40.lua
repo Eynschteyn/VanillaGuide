@@ -137,7 +137,7 @@ Table_003_Horde_30to40 = {
 			[2] = { str = "2. Первым делом начинайте убивать мобов в крепости Thunder Axe Fortress в точке 55,24", x = 55, y = 24, zone = "Desolace" },
 			[3] = { str = "3. Пока не выпадет: #NPCFlayed Demon Skin# которое начинает задание: #ACCEPT\"The Corrupter\"#" },
 			[4] = { str = "4. Затем идите по тропинке и сделайте:" },
-			[5] = { str = "5. Выполните задание #DOQUEST\"Kodo Roundup\"# начните в точке 60,61", x = 60, y = 61, zone = "Desolace" },
+			[5] = { str = "5. Возьмите и выполните задание #ACCEPT\"Kodo Roundup\"# начните в точке 60,61", x = 60, y = 61, zone = "Desolace" },
 			[6] = { str = "6. Затем отправляйтесь на заставу Ghost Walker Post в точке 56,59", x = 56, y = 59, zone = "Desolace" },
 			[7] = { str = "7. Сдайте задание #TURNIN\"The Kolkar of Desolace\"# и возьмите задание #ACCEPT\"Khan Dez'hepah\"#" },
 			[8] = { str = "8. Возьмите задание #ACCEPT\"Gelkis Alliance\"# (именно его вам и следует выбрать). Задание \"#NPCMagram Alliance\"# ПРОПУСТИТЕ" },
