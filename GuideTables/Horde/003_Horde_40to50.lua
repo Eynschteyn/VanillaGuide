@@ -68,7 +68,7 @@ Table_003_Horde_40to50 = {
 			[3] = { str = "02) #DOQUEST\"Nothing But the Truth\"# — убейте Mire Lord ради Mire Lord Fungus (в точке 6.32)", x = 6, y = 32, zone = "Swamp of Sorrows" },
 			[4] = { str = "03) Найдите и убейте #NPCCudgel# (в точке 47.39), с него падает Noboru's Cudgel, который начинает задание #ACCEPT\"Noboru the Cudgel\"#" },
 			[5] = { str = "04) Сдайте задание #TURNIN\"Noboru the Cudgel\"# (точка 25.31) и возьмите #ACCEPT\"Draenethyst Crystals\"#", x = 25, y = 31, zone = "Swamp of Sorrows" },
-			[6] = { str = "05) Прогриндите путь до Stonard (точка 45.54)"", x = 45, y = 54, zone = "Swamp of Sorrows" },
+			[6] = { str = "05) Прогриндите путь до Stonard (точка 45.54)", x = 45, y = 54, zone = "Swamp of Sorrows" },
 			[7] = { str = "06) Сделайте Stonard вашим домом." },
 			[8] = { str = "07) Возьмите задания #ACCEPT\"Lack of Surplus\"# и #ACCEPT\"#NPCFresh Meat\"#" },
 			[9] = { str = "08) Откройте полетчика." },
