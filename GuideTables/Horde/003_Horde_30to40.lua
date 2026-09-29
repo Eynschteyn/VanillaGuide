@@ -83,7 +83,7 @@ Table_003_Horde_30to40 = {
 			[5] = { str = "5. Возьмите задание #ACCEPT\"Tiger Mastery\"# часть 1 убивайте #NPCYoung Stranglethorn Tigers# в точке 33,10", x = 33, y = 10, zone = "Stranglethorn Vale" },
 			[6] = { str = "6. Возьмите задание #ACCEPT\"Panther Mastery\"# часть 1 убивайте #NPCYoung Panthers# в точке 41,9", x = 41, y = 9, zone = "Stranglethorn Vale" },
 			[7] = { str = "7. Идите и сдайте задания #TURNIN\"Tiger Mastery\"# часть 1 и #TURNIN\"Panther Mastery\"# часть 1 в лагере по координатам 35,10" },
-			[8] = { str = "8. Берите следуюшие части заданий #ACCEPT\"Tiger Mastery\"# часть 2 и #ACCEPT\"Panther Mastery\"# часть 2, а так же задание #ACCEPT\"Raptor Mastery\"# часть 1 и идите выполнять задания" }
+			[8] = { str = "8. Берите следуюшие части заданий #ACCEPT\"Tiger Mastery\"# часть 2 и #ACCEPT\"Panther Mastery\"# часть 2, а так же задание #ACCEPT\"Raptor Mastery\"# часть 1 и идите выполнять задания" },
 			[9] = { str = "9. Выполните задание #DOQUEST\"Panther Mastery\"# убивайте #NPCPanthers# в точке 30,11", x = 30, y = 11, zone = "Stranglethorn Vale" },
 			[10] = { str = "10. Выполните задание #DOQUEST\"Tiger Mastery\"# убивайте #NPCStranglethorn Tigers# в точке 30,10", x = 30, y = 11, zone = "Stranglethorn Vale" },
 			[11] = { str = "11. Выполниет задание #DOQUEST\"Raptor Mastery\"# убивайте #NPCStranglethorn Raptors# в точке 25,15", x = 25, y = 15, zone = "Stranglethorn Vale" },
