@@ -156,7 +156,7 @@ Table_003_Horde_30to40 = {
 			[21] = { str = "21. Затем сделайте следующее:" },
 			[22] = { str = "22. Зайди в воду и собери 10 шт. \"#NPCShellfish#\" из ловушек для малюсков" },
 			[23] = { str = "23. Сдайте их НПС Jinar'Zillen что бы получить 2 шт. \"#NPCBloodbelly Fish#\" (это задание мне не давал нпс может оно откроется позже.)" },
-			[24] = { str = "24. Поднимитесь в верх по течению попутно собирая #NPCSoft-shelled Clam Meat# для задания #DOQUEST\"Clam Bait\"#" },
+			[24] = { str = "24. Прыгай в воду и плыви на север от лагеря попутно собирая #NPCSoft-shelled Clam Meat# для задания #DOQUEST\"Clam Bait\"#" },
 			[25] = { str = "25. Затем возьмите задание #ACCEPT\"Claim Rackmore's Treasure!\"# (сундук и затонувшая лодка на берегу в точке 36,30) (silver key выпадает из drysnap, а golden key выпадает из Slitherblade)", x = 36, y = 30, zone = "Desolace" },
 			[26] = { str = "26. Возьмите заадние #ACCEPT\"Sceptre of Light\"# в точке 38,27", x = 38, y = 27, zone = "Desolace" },
 			[27] = { str = "27. Идите в Thunder Axe Fortress по координатам 54,29:", x = 54, y = 29, zone = "Desolace" },
