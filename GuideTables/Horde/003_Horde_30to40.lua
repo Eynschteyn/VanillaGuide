@@ -156,7 +156,7 @@ Table_003_Horde_30to40 = {
 			[21] = { str = "21. Сделайте Shadowprey Village вашим домом" },
 			[22] = { str = "22. Затем сделайте следующее:" },
 			[23] = { str = "23. Зайди в воду и собери 10 шт. \"#NPCShellfish#\" из ловушек для малюсков" },
-			[24] = { str = "24. Сдайте их НПС Jinar'Zillen что бы получить 2 шт. \"#NPCBloodbelly Fish#\" (это задание мне не давал нпс может оно откроется позже.)" },
+			[24] = { str = "24. Сдайте их НПС Jinar'Zillen что бы получить 2 шт. \"#NPCBloodbelly Fish#\" (для этого задания нужно выполнить 12 шаг)" },
 			[25] = { str = "25. Прыгай в воду и плыви на север от лагеря попутно собирая #NPCSoft-shelled Clam Meat# для задания #DOQUEST\"Clam Bait\"# РаHfreirb " },
 			[26] = { str = "26. Затем возьмите задание #ACCEPT\"Claim Rackmore's Treasure!\"# (сундук и затонувшая лодка на берегу в точке 36,30) (silver key выпадает из drysnap, а golden key выпадает из Slitherblade)", x = 36, y = 30, zone = "Desolace" },
 			[27] = { str = "27. Возьмите заадние #ACCEPT\"Sceptre of Light\"# в точке 38,27", x = 38, y = 27, zone = "Desolace" },
