@@ -160,7 +160,7 @@ Table_003_Horde_30to40 = {
 			[25] = { str = "25. Затем возьмите задание #ACCEPT\"Claim Rackmore's Treasure!\"# (сундук и затонувшая лодка на берегу в точке 36,30) (silver key выпадает из drysnap, а golden key выпадает из Slitherblade)", x = 36, y = 30, zone = "Desolace" },
 			[26] = { str = "26. Возьмите заадние #ACCEPT\"Sceptre of Light\"# в точке 38,27", x = 38, y = 27, zone = "Desolace" },
 			[27] = { str = "27. Идите в Thunder Axe Fortress по координатам 54,29:", x = 54, y = 29, zone = "Desolace" },
-			[28] = { str = "28. Выполните заадние #DOQUEST\"The Burning of Spirits\"#" },
+			[28] = { str = "28. Выполните заадние #DOQUEST\"The Burning of Spirits\"# используйте белый гем из вашего инвентаря когда у моба будет очень мало ХП" },
 			[29] = { str = "29. Выполните задание #DOQUEST\"Sceptre of Light\"#" },
 			[30] = { str = "30. Выполните задание #DOQUEST\"Hand of Iruxos\"#" },
 			[31] = { str = "31. Затем вернитесь в точку 38.27", x = 38, y = 27, zone = "Desolace" },
