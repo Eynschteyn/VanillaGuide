@@ -215,7 +215,7 @@ Table_003_Horde_30to40 = {
 			[4] = { str = "#COORDS4. Собирайте все Silk Cloth которые выбъете в количестве 60 штук они вам понадобятся в конце этого блока#" },
 			[5] = { str = "5. Летите в Grom'gol" },
 			[6] = { str = "6. Берите все задания в grom'gol: #ACCEPT\"The Defense of Grom'gol\"#, #ACCEPT\"Mok'thardin's Enchantment\"#, #ACCEPT\"Bloodscalp Insight\"#, #ACCEPT\"Hunt for Yenniku\"#, #ACCEPT\"Trollbane\"#, #ACCEPT\"Bloody Bone Necklaces\"#, #ACCEPT\"The Vile Reef\"#" },
-			[7] = { str = "#HUNTER7. Выучите новые способности у вашего классового тренера#" },
+			[7] = { str = "#HUNTER7. Выучите новые способности у вашего классового тренера, помните что классовый тренер охотников есть в Grom'gol#" },
 			[8] = { str = "8. #VIDEOСОВЕТ: Собирайте все найденые страницы Green Hills of Stranglethorn для экономии места в сумке пересылайте их своему альту по почте, они вам пригодятся позже. Вам нужны страницы под номером: 1, 4, 6, 8, 10, 11, 14, 16, 18, 20, 21, 24, 25, 26, and 27. Когда соберете все то можете сдать это задание по возможности#" },
 			[9] = { str = "9. Выполните задание #DOQUEST\"Singing Blue Shards\"# в точке 25.19", x = 25, y = 19, zone = "Stranglethorn Vale" },
 			[10] = { str = "0. Выполните задание #DOQUEST\"Tiger Mastery\"# бейте (#NPCElder Stranglethorn Tigers#) в точке 31.19", x = 31, y = 19, zone = "Stranglethorn Vale" },
