@@ -240,7 +240,7 @@ Table_003_Horde_30to40 = {
 			[28] = { str = "28. Жмите Hearth в BB, сдайте задания #TURNIN\"Singing Blue Shards\"#, #TURNIN\"Hostile Takeover\"#, #TURNIN\"Bloodscalp Ears\"#, #TURNIN\"Investigate the Camp\"#" },
 			[29] = { str = "29. Сдайте задание #TURNIN\"Goblin Sponsorship\"# part4 и возьмите следующее #ACCEPT\"Goblin Sponsorship\"# part5." },
 			[30] = { str = "30. Летите в Grom'gol, и сдайте все задания: #TURNIN\"The Defense of Grom'gol\"#, #TURNIN\"Mok'thardin's Enchantment\"#, #TURNIN\"Headhunting\"#, #TURNIN\"Bloody Bone Necklaces\"# и #TURNIN\"The Vile Reef\"# если вы их не сдавали ранее" },
-			[31] = { str = "31. Сейчас вы должны быть 36 уровня, если нет гриндите мобов пока не получите его. Возьмите задание #Accept\"Trollbane\"#. #HUNTERВыучите новые навыки у классового тренера, ханты помните что тренер есть в Grom'golе#" },
+			[31] = { str = "31. Сейчас вы должны быть 36 уровня, если нет гриндите мобов пока не получите его. Возьмите задание #ACCEPT\"Trollbane\"#. #HUNTERВыучите новые навыки у классового тренера, ханты помните что тренер есть в Grom'golе#" },
 			[32] = { str = "32. Лети на дережебле в Undercity" },
 			[33] = { str = "33. Как окажетесь в Undercity, сдайте 60 Silk Cloth для задания #TURNIN\"A Donation of Silk\"# в точке 71.28 (Пожертвование)", x = 71, y = 28, zone = "Undercity" },
 			[34] = { str = "34. Возьмтие задание #ACCEPT\"To Steal From Thieves\"# в точке 63.49", x = 63, y = 49, zone = "Undercity" },
