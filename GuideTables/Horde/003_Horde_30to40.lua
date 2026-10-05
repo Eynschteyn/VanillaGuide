@@ -257,7 +257,7 @@ Table_003_Horde_30to40 = {
 		--itemCount = 26,
 		items = {
 			[1] = { str = "1. 35-37 Arathi Highlands" },
-			[2] = { str = "2. Сделайте Hammerfall вашим домом" },
+			[2] = { str = "2. Сделайте Hammerfall своим домом" },
 			[3] = { str = "3. Сдайте задание #TURNIN\"Trollbane\"# задание \"#NPCSigil of Strom\"# я ПРОПУСКАЮ" },
 			[4] = { str = "4. Возьмите задания #ACCEPT\"Call to Arms\"#, #ACCEPT\"Foul Magics\"# и #ACCEPT\"Guile of the Raptor\"#" },
 			[5] = { str = "5. Гриндите мобов пока идете на юг для задания : #DOQUEST\"Call to Arms\"#" },
