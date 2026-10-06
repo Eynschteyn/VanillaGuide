@@ -268,7 +268,7 @@ Table_003_Horde_30to40 = {
 			[10] = { str = "10. Затем сдайте заадние #TURNIN\"Call to Arms\"# и возьмите следующее #ACCEPT\"Call to Arms\"#" },
 			[11] = { str = "11. Если нужно сделайте задание по оказанию первой помощи #DOQUEST\"Triage\"# (у доктора Gregory Victor, first aid тренер в Hammerfall)" },
 			[12] = { str = "12. Далее:" },
-			[13] = { str = "13. Сдайте задание #DOQUEST\"Stones of Binding\"# (первый ключ к западу от hammerfall в точке 66.29)", x = 66, y = 29, zone = "Arathi Highlands" },
+			[13] = { str = "13. Выполните задание #DOQUEST\"Stones of Binding\"# (первый ключ к западу от hammerfall в точке 66.29)", x = 66, y = 29, zone = "Arathi Highlands" },
 			[14] = { str = "14. Далее: Выполни задание #DOQUEST\"To Steal From Thieves\"# в точке 54.40", x = 54, y = 40, zone = "Arathi Highlands" },
 			[15] = { str = "15. Спуститесь на юг и возьмите следующий ключ для задания #DOQUEST\"Stones of Binding\"# в точке 52.50", x = 52, y = 50, zone = "Arathi Highlands" },
 			[16] = { str = "16. А затем спускайся и делай:" },
