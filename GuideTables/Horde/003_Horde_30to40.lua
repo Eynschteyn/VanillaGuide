@@ -305,7 +305,7 @@ Table_003_Horde_30to40 = {
 			[10] = { str = "10. Садитесь на дерижабль до Orgrimmar'a" },
 			[11] = { str = "11. Оказавшись в Orgrimmar, сдайте задание #TURNIN\"Alliance Relations\"# НПС #NPCKeldran# в точке 21.53", x = 21, y = 53, zone = "Orgrimmar" },
 			[12] = { str = "12. Затем летите в Crossroads" },
-			[13] = { str = "13. Сделайте Crossroads вашим домо" },
+			[13] = { str = "13. Сделайте Crossroads вашим домом" },
 			[14] = { str = "14. Летите в Freewind Post (Thousand needles)" },
 		}
 	},
