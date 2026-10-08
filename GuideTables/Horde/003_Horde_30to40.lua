@@ -352,7 +352,7 @@ Table_003_Horde_30to40 = {
 			[9] = { str = "9. идите выполнять #DOQUEST\"Jarl Needs Eyes\"# (при этом не забывая про остальные)" },
 			[10] = { str = "10. Я выполняю задание-эскорт: #DOQUEST\"Stinky's Escape\"# (начинается в точке 47.18) (гриндите мобов во время этого задания)", x = 47, y = 18, zone = "Dustwallow Marsh" },
 			[11] = { str = "11. Я останавливаюсь в большом месте с рапторами в точке 47.17 и гринжу его несколько раз подчистую.", x = 47, y = 17, zone = "Dustwallow Marsh" },
-			[12] = { str = "12. Идите в Brackenwall Village сдайте задания #TURNIN\"The Black Shield\"#, #TURNIN\"The Lost Report\"# и #TURNIN\"Theramore Spies\"#. Берите новые задания" },
+			[12] = { str = "12. Идите в Brackenwall Village сдайте задание #TURNIN\"The Black Shield\"# и возьмите следующую часть и снова сдайте ее неподалеку НПС \"#NPCKrog\". Далее сдайте #TURNIN\"The Lost Report\"# и #TURNIN\"Theramore Spies\"#. Берите новые задания" },
 			[13] = { str = "13. Далее сдайте #TURNIN\"Hungry!\"#" },
 			[14] = { str = "14. возвращаюсь к хижине Jarl'a в точке 55.25, снова иду к куче земли, чтобы получить \"#NPCThe Severed Head#\"", x = 55, y = 25, zone = "Dustwallow Marsh" },
 			[15] = { str = "15. сдаю #TURNIN\"Jarl Needs Eyes\"# ... я ПРОПУСКАЮ #TURNIN\"Jarl Needs a Blade\"#" },
