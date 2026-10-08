@@ -362,7 +362,7 @@ Table_003_Horde_30to40 = {
 			[19] = { str = "19. Затем я иду выполнять это задание:" },
 			[20] = { str = "20. #DOQUEST\"The Theramore Docks\"# документы капитана находятся под водой в точке 71.51", x = 71, y = 51, zone = "Dustwallow Marsh" },
 			[21] = { str = "21. Затем я специально умираю, чтобы оказаться прямо в Brackenwall Village." },
-			[22] = { str = "22. Сдайте #TURNIN\"The Theramore Docks\"# и #TURNIN\"Questioning Reethe\"#" },
+			[22] = { str = "22. Сдайте #TURNIN\"The Theramore Docks\"# и #TURNIN\"Questioning Reethe\"# если вы осилили это задание" },
 			[23] = { str = "23. Сдайте #TURNIN\"The Severed Head\"# и возьмите #ACCEPT\"The Troll Witchdoctor\"#" },
 			--[BB] = { str = "CC) Убейте Deadmire в XX.YY", x = XX, y = YY, zone = "Dustwallow Marsh" },
 			[24] = { str = "24. Жмите Hearth в Crossroads" },
