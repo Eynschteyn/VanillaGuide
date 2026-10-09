@@ -123,7 +123,7 @@ Table_003_Horde_40to50 = {
 			[18] = { str = "18. Садитесь на дирижабль до Orgrimmar" },
 			[19] = { str = "19. По прилёту идите к Belgrom Rockmaul в точке 75.34 и возьмите задание #ACCEPT\"A Threath in Ferelas\"#", x = 75, y = 34, zone = "Orgrimmar" },
 			[20] = { str = "20. Летите в Thunder Bluff" },
-			[21] = { str = "21. Сдайте задание #TURNIN\"Frostmaw\"# и возьмите #ACCEPT\"Deadmire\"# (подсказка: гриву Frostmaw я обычно долго храню в банке)" },
+			[21] = { str = "21. Сдайте задания #TURNIN\"The Black Shield\"# и #TURNIN\"Frostmaw\"# и возьмите #ACCEPT\"Deadmire\"# (подсказка: гриву Frostmaw я обычно долго храню в банке)" },
 			[22] = { str = "22. Летите в Desolace, если вы ещё не прошли 4-5 полосок 43 уровня, или в Dustwallow Marsh, если прошли." },
 			--[22] = { str = "." },
 			--[23] = { str = "." },
