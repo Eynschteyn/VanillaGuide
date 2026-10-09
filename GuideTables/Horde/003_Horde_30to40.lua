@@ -365,7 +365,7 @@ Table_003_Horde_30to40 = {
 			[22] = { str = "22. Сдайте #TURNIN\"The Severed Head\"# и возьмите #ACCEPT\"The Troll Witchdoctor\"#" },
 			[23] = { str = "23. Жмите Hearth в Crossroads" },
 			[24] = { str = "24. Летите в Ratchet, сдайте #TURNIN\"Stinky's Escape\"# пока вы там." },
-			[25] = { str = "25. Садитесь на корабль, чтобы плыть в BB (Booty Bay)" },
+			[25] = { str = "25. Садитесь на корабль, чтобы плыть в Booty Bay" },
 		}
 	},
 
@@ -391,8 +391,8 @@ Table_003_Horde_30to40 = {
 			[12] = { str = "12. Затем выполните #DOQUEST\"Panther Mastery\"# (#NPCBhag'thera#) (у него 3 разных точки появления: 48.20, 49.23 или 47.26)", x = 48, y = 20, zone = "Stranglethorn Vale" },
 			[13] = { str = "13. Затем сдайте #TURNIN\"Panther Mastery\"# (#NPCBhag'thera#) и #TURNIN\"Raptor Mastery\"# (#NPCJungle Stalkers#) в Nesingwary's Expedition (35.10)", x = 35, y = 10, zone = "Stranglethorn Vale" },
 			[14] = { str = "14. Возьмите #ACCEPT\"Raptor Mastery\"# (#NPCTethis#), но не выполняйте его сейчас." },
-			[15] = { str = "15. Жмите Hearth в BB." },
-			[16] = { str = "16. сдайте #TURNIN\"Venture Company Mining\"#" },
+			[15] = { str = "15. Жмите Hearth в Booty Bay." },
+			[16] = { str = "16. Сдайте задание #TURNIN\"Venture Company Mining\"#" },
 			[17] = { str = "17. Затем идите выполнять:" },
 			[18] = { str = "18. #DOQUEST\"The Bloodsail Buccaneers\"# (чуть северо-западнее BB в точке 27.69, там небольшая записка на бочке, щёлкните по ней, возьмите новое задание).", x = 27, y = 69, zone = "Stranglethorn Vale" },
 			[19] = { str = "19. #DOQUEST\"Scaring Shaky\"# вместе с #DOQUEST\"Mok'thardin's Enchantment\"# часть 3 (32.66)", x = 32, y = 66, zone = "Stranglethorn Vale" },
