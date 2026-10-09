@@ -359,7 +359,7 @@ Table_003_Horde_30to40 = {
 			[16] = { str = "16. Возвращаюсь к хижине Jarl'a в точке 55.25, снова иду к куче земли, чтобы взять задание #ACCEPT\"CThe Severed Head#\"", x = 55, y = 25, zone = "Dustwallow Marsh" },
 			[17] = { str = "17. Сдайте #TURNIN\"Jarl Needs Eyes\"#, а задание #TURNIN\"Jarl Needs a Blade\"# я ПРОПУСКАЮ" },
 			[18] = { str = "18. Я гринжу ещё немного на рапторах и прочих, в этот момент я должен быть чуть больше чем на половине пути к 39 уровню." },
-			[19] = { str = "19. Затем я иду выполнять задание #DOQUEST\"The Theramore Docks\"# документы капитана находятся под водой в точке 71.51", x = 71, y = 51, zone = "Dustwallow Marsh" },,
+			[19] = { str = "19. Затем я иду выполнять задание #DOQUEST\"The Theramore Docks\"# документы капитана находятся под водой в точке 71.51", x = 71, y = 51, zone = "Dustwallow Marsh" },
 			[20] = { str = "20. Затем я специально умираю, чтобы оказаться прямо в Brackenwall Village." },
 			[21] = { str = "21. Сдайте #TURNIN\"The Theramore Docks\"# и #TURNIN\"Questioning Reethe\"# (если вы осилили задание Questioning Reethe)" },
 			[22] = { str = "22. Сдайте #TURNIN\"The Severed Head\"# и возьмите #ACCEPT\"The Troll Witchdoctor\"#" },
