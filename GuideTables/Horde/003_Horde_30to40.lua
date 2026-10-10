@@ -382,7 +382,7 @@ Table_003_Horde_30to40 = {
 			[3] = { str = "3. Сделайте BB вашим домом, затем поднимитесь по ступенькам и сдайте #TURNIN\"The Rumormonger\"#" },
 			[4] = { str = "4. Летите в Grom'gol." },
 			[5] = { str = "5. Возьмите #ACCEPT\"Mok'thardin's Enchantment\"#" },
-			[6] = { str = "6. Сдайте #TURNIN\"The Troll Witchdoctor\"# ... щёлкните правой кнопкой по котлу ... возьмите #ACCEPT\"Marg Speaks\"#" },
+			[6] = { str = "6. Сдайте #TURNIN\"The Troll Witchdoctor\"#, далее щёлкните правой кнопкой по котлу и возьмите #ACCEPT\"Marg Speaks\"#" },
 			[7] = { str = "7. Идите выполнять:" },
 			[8] = { str = "8. #DOQUEST\"Raptor Mastery\"# вместе с #DOQUEST\"Mok'thardin's Enchantment\"# (31.41) (убивайте #NPCJungle Stalkers#)", x = 31, y = 41, zone = "Stranglethorn Vale" },
 			[9] = { str = "9. Гриндите Рапторов и Васелисков до 39 уровня" },
