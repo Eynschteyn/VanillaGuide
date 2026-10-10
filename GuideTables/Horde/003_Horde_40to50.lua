@@ -51,7 +51,7 @@ Table_003_Horde_40to50 = {
 			[24] = { str = "24. Затем бегите до Swamp of Sorrows, по пути зайдите взять задание: #ACCEPT\"Nothing But the Truth\"# (в Duskwood в точке 87.35)", x = 87, y = 35, zone = "Duskwood" },
 			[25] = { str = "25. Затем сдайте задание #TURNIN\"Nothing But the Truth\"# (НПС стоит рядом с ним)" },
 			[26] = { str = "26. Снова возьмите #ACCEPT\"Nothing But the Truth\"#" },
-			[27] = { str = "27. Затем бегите в Swamp of Sorrows..." },
+			[27] = { str = "27. Затем бегите в Swamp of Sorrows" },
 			--[28] = { str = "." },
 			--[29] = { str = "." },
 		}
