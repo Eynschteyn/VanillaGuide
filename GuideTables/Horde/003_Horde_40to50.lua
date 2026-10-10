@@ -30,7 +30,7 @@ Table_003_Horde_40to50 = {
 			[3] = { str = "3. Сдайте задание #TURNIN\"Martek the Exiled\"# (в точке 42.52) и возьмите #ACCEPT\"Indurium\"# и #ACCEPT\"Barbecued Buzzard Wings\"#", x = 42, y = 52, zone = "Badlands" },
 			[4] = { str = "4. Спуститесь чуть южнее и выполните задание #DOQUEST\"Indurium\"# в точке 51.67", x = 51, y = 67, zone = "Badlands" },
 			[5] = { str = "5. Вернитесь назад и сдайте задание #TURNIN\"Indurium\"# и возьмите #ACCEPT\"News for Fizzle\"#" },
-			[6] = { str = "6. Затем идите на северо-запад и возьмите задание #ACCEPT\"Study of the Elements: Rock\"# (в точке 25.44). #VIDEONOTE:# Если у вас есть предметы #NPCFrost Oil#, #NPCGyrochronatom#, #NPCHealing Potion#, #NPCLesser Invisibility Potion# и #NPCPatterned Bronze Bracers# — возьмите и выполните там все задания.", x = 25, y = 44, zone = "Badlands" },
+			[6] = { str = "6. Затем идите на северо-запад и возьмите задание #ACCEPT\"Study of the Elements: Rock\"# (в точке 25.44). #VIDEOНАПОМИНАНИЕ:# Если у вас есть предметы #NPCFrost Oil#, #NPCGyrochronatom#, #NPCHealing Potion#, #NPCLesser Invisibility Potion# и #NPCPatterned Bronze Bracers# — возьмите и выполните там все задания", x = 25, y = 44, zone = "Badlands" },
 			[7] = { str = "7. Прогриндите свой путь на запад до Kargath (точка 4.46)", x = 4, y = 46, zone = "Badlands" },
 			[8] = { str = "8. Откройте полетчика в Kargath." },
 			[9] = { str = "9. НЕ делайте Kargath вашим домом. (домом должен оставаться Booty Bay)" },
