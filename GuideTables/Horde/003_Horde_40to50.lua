@@ -66,7 +66,7 @@ Table_003_Horde_40to50 = {
 		--itemCount = 27,
 		items = {
 			[1] = { str = "1. 41-42 Swamp of Sorrows" },
-			[2] = { str = "2. Начните с задания: #DOQUEST\"Dream Dust in the Swamp\"# (точка 14.59). Для его выполнения может понадобиться несколько вылазок в эту зону..", x = 14, y = 59, zone = "Swamp of Sorrows" },
+			[2] = { str = "2. Выполните задание #DOQUEST\"Dream Dust in the Swamp\"# (точка 14.59). Для его выполнения может понадобиться несколько вылазок в эту зону..", x = 14, y = 59, zone = "Swamp of Sorrows" },
 			[3] = { str = "3. #DOQUEST\"Nothing But the Truth\"# — убейте Mire Lord ради Mire Lord Fungus (в точке 6.32)", x = 6, y = 32, zone = "Swamp of Sorrows" },
 			[4] = { str = "4. Найдите и убейте #NPCCudgel# (в точке 47.39), с него падает Noboru's Cudgel, который начинает задание #ACCEPT\"Noboru the Cudgel\"#" },
 			[5] = { str = "5. Сдайте задание #TURNIN\"Noboru the Cudgel\"# (точка 25.31) и возьмите #ACCEPT\"Draenethyst Crystals\"#", x = 25, y = 31, zone = "Swamp of Sorrows" },
