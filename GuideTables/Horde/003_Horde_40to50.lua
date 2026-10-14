@@ -111,7 +111,7 @@ Table_003_Horde_40to50 = {
 			[5] = { str = "5. Сдайте задание #TURNIN\"Dream Dust in the Swamp\"#" },
 			[6] = { str = "6. Сделайте Booty Bay вашим домом." },
 			[7] = { str = "7. Затем выполняйте в следующем порядке:" },
-			[8] = { str = "8. #DOQUEST\"The Bloodsail Buccaneers\"# вместе с #DOQUEST\"Up to Snuff\"# и #DOQUEST\"Keep An Eye Out\"# (делаются на побережье около 31.80, ещё мобов можно найти в 27.70). Также выполните #DOQUEST\"Stranglethorn Fever\"# (для него понадобится один клык гориллы, а знахарь сидит в пещере в точке 34.60)", x = 31, y = 80, zone = "Stranglethorn Vale" },
+			[8] = { str = "8. #DOQUEST\"The Bloodsail Buccaneers\"# вместе с #DOQUEST\"Up to Snuff\"# и #DOQUEST\"Keep An Eye Out\"# (делаются на побережье около 31.80, ещё мобов можно найти в 27.70). Также выполните #DOQUEST\"Stranglethorn Fever\"# (для него понадобится 10 клыков Gorilla Fang, а знахарь сидит в пещере в точке 34.60)", x = 31, y = 80, zone = "Stranglethorn Vale" },
 			[9] = { str = "9. #DOQUEST\"Mok'thardin's Enchantment\"# часть 4 вместе с #DOQUEST\"Akiris by the Bundle\"# (точка 25.63)", x = 25, y = 63, zone = "Stranglethorn Vale" },
 			[10] = { str = "10. #DOQUEST\"Zanzil's Secret\"# вместе с #DOQUEST\"Voodoo Dues\"# (точки 34.52 и 39.58)", x = 34, y = 52, zone = "Stranglethorn Vale" },
 			[11] = { str = "11. #DOQUEST\"Skullsplitter Tusks\"# вместе с #DOQUEST\"Split Bone Necklace\"#" },
