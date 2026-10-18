@@ -347,7 +347,7 @@ Table_003_Horde_40to50 = {
 			[17] = { str = "17. #DOQUEST\"Rin'ji is Trapped!\"# (эскорт-задание, начинается в точке 31.48)", x = 31, y = 48, zone = "Hinterlands" },
 			[18] = { str = "18. #DOQUEST\"Grim Message\"# — пока делаете это задание, возьмите #ACCEPT\"Venom Bottles\"# (одна из маленьких бутылок на столе)" },
 			[19] = { str = "19. Да-да, тот самый старый добрый гринд в Hinterlands.. развлекайтесь LOL." },
-			[20] = { str = "20. Когда вы все это сделаете сдайте задание #TURNIN\"A Sticky Situation\"#" },
+			[20] = { str = "20. Когда вы все это сделаете сдайте задание #TURNIN\"A Sticky Situation\"# в точке 27,47 и затем сдайте задание #TURNIN\"The Atal'ai Exile\"# в точке 33,74" },
 			[21] = { str = "21. Если выпадет предмет \"#NPCOOX-09/HL Distress Beacon#\", возьмите задание #ACCEPT\"Find OOX-09/HL!\"#" },
 			[22] = { str = "22. Сдайте #TURNIN\"Find OOX-09/HL!\"# (в точке 49.38)", x = 49, y = 38, zone = "Hinterlands" },
 			[23] = { str = "23. Сдайте #TURNIN\"Rin'ji is Trapped!\"# (в точке 86.59) и возьмите #ACCEPT\"Rin'ji's Secret\"#", x = 86, y = 59, zone = "Hinterlands" },
