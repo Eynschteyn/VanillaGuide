@@ -310,7 +310,7 @@ Table_003_Horde_40to50 = {
 			[7] = { str = "7. Затем отправляйтесь в Undercity" },
 			[8] = { str = "8. Идите в Magic Quarter и возьмите задание #ACCEPT\"Lines of Communication\"#" },
 			[9] = { str = "9. Идите в Apothecarium Quarter и возьмите задания: #ACCEPT\"Seeping Corruption\"# и #ACCEPT\"Errand for Apothecary Zinge\"#" },
-			[10] = { str = "10. Затем сдайте #ACCEPT\"Errand for Apothecary Zinge\"# (в соседней комнате)" },
+			[10] = { str = "10. Затем сдайте #ACCEPT\"Errand for Apothecary Zinge\"# (неподалеку)" },
 			[11] = { str = "11. Вернитесь обратно и снова сдайте #TURNIN\"Errand for Apothecary Zinge\"# и возьмите #ACCEPT\"Into the Field\"#" },
 			[12] = { str = "12. 'Field Testing Kit' и 'Box of Empty Vials' пока можно положить в банк." },
 			[13] = { str = "13. Летите в Tarren Mill и сделайте его вашим домом." },
