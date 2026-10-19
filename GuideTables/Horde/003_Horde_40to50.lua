@@ -371,7 +371,7 @@ Table_003_Horde_40to50 = {
 			[39] = { str = "39. Идите в Magic Quarter и сдайте #TURNIN\"A Donation of Mageweave\"# (для этого задания нужно 60 mageweave cloth)" },
 			[40] = { str = "40. Затем сдайте: #TURNIN\"Lines of Communication\"# и #TURNIN\"Rin'ji's Secret\"#, затем выполните #TURNIN\"Oran's Gratitude\"#" },
 			[41] = { str = "41. Садитесь на дирижабль до Grom'gol" },
-			[42] = { str = "=====>>" },
+			[42] = { str = "=====>" },
 			--[39] = { str = "." },
 		}
 	},
