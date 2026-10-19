@@ -402,7 +402,7 @@ Table_003_Horde_40to50 = {
 			[16] = { str = "16. Летите в Kargath (Badlands).." },
 			[17] = { str = "17. Достаю стак Silk Cloth из почтового ящика для задания #ACCEPT\"Caught\"#, затем..." },
 			[18] = { str = "18. Идите в Searing Gorge..." },
-			--[19] = { str = "." },
+			[19] = { str = "=====>" },
 			--[20] = { str = "." },
 		}
 	},
@@ -439,7 +439,7 @@ Table_003_Horde_40to50 = {
 			[22] = { str = "22. Как только всё это будет сделано, сдайте все задания Searing Gorge. Убедитесь, что у вас есть все 20 solid crystal leg shafts." },
 			[23] = { str = "23. Направляйтесь на юг в Burning Steppes (вам придётся идти через Black Rock Mountains).." },
 			[24] = { str = "24. Я открываю некоторые области, затем беру там полетчика (в точке 65.25) и лечу напрямую в Stonard (Swamp of Sorrows)...", x = 65, y = 25, zone = "Searing Gorge" },
-			--[25] = { str = "." },
+			[25] = { str = "=====>" },
 			--[26] = { str = "." },
 		}
 	},
@@ -479,7 +479,7 @@ Table_003_Horde_40to50 = {
 			[25] = { str = "25. Затем летите в Tanaris.." },
 			[26] = { str = "26. Сдайте #TURNIN\"Ledger from Tanaris\"# и #TURNIN\"Into the Field\"# ... возьмите и выполните #DOQUEST\"Slake that Thirst\"#" },
 			[27] = { str = "27. Затем летите в Feralas.." },
-			--[28] = { str = "." },
+			[28] = { str = "=====>" },
 			--[29] = { str = "." },
 		}
 	},
@@ -517,7 +517,7 @@ Table_003_Horde_40to50 = {
 			[23] = { str = "23. Сдайте #TURNIN\"Improved Quality\"#, #TURNIN\"Perfect Yeti Hide\"#, #TURNIN\"Vengeance on the Northspring\"# и #TURNIN\"Dark Heart\"# " },
 			[24] = { str = "24. Возьмите #ACCEPT\"The Strength of Corruption\"# " },
 			[25] = { str = "25. Летите в Tanaris..." },
-			--[26] = { str = "." },
+			[26] = { str = "=====>" },
 			--[27] = { str = "." },
 		}
 	},
@@ -561,7 +561,7 @@ Table_003_Horde_40to50 = {
 			[29] = { str = "29. Сделайте Orgrimmar вашим домом." },
 			[30] = { str = "30. Достаньте Box of Empty Vials из банка." },
 			[31] = { str = "31. Летите в Azshara..." },
-			--[32] = { str = "." },
+			[32] = { str = "=====>" },
 			--[33] = { str = "." },
 		}
 	},
