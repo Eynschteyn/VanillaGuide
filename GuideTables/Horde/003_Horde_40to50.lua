@@ -52,7 +52,7 @@ Table_003_Horde_40to50 = {
 			[25] = { str = "25. Затем сдайте задание #TURNIN\"Nothing But the Truth\"# НПС стоит рядом с ним" },
 			[26] = { str = "26. Снова возьмите #ACCEPT\"Nothing But the Truth\"#" },
 			[27] = { str = "27. Затем бегите в Swamp of Sorrows" },
-			--[28] = { str = "." },
+			[28] = { str = "=====>" },
 			--[29] = { str = "." },
 		}
 	},
@@ -91,7 +91,7 @@ Table_003_Horde_40to50 = {
 			[24] = { str = "24. Сейчас должен быть примерно 42 уровень, если нет — гриндите до него" },
 			[25] = { str = "25. #HUNTERВыучите новые способности у классового тренера (тренер войнов, охотников, варлоков и шаманов есть в Stonard)#" },
 			[26] = { str = "26. Летите в Grom'gol" },
-			--[26] = { str = "." },
+			[27] = { str = "=====>" },
 			--[27] = { str = "." },
 		}
 	},
@@ -126,7 +126,7 @@ Table_003_Horde_40to50 = {
 			[20] = { str = "20. Летите в Thunder Bluff" },
 			[21] = { str = "21. Сдайте задания #TURNIN\"The Black Shield\"# и #TURNIN\"Frostmaw\"# и возьмите #ACCEPT\"Deadmire\"# (подсказка: гриву Frostmaw я обычно долго храню в банке)" },
 			[22] = { str = "22. Летите в Desolace, если вы ещё не прошли 4-5 полосок 43 уровня, или в Dustwallow Marsh, если прошли." },
-			--[22] = { str = "." },
+			[23] = { str = "=====>" },
 			--[23] = { str = "." },
 		}
 	},
@@ -153,7 +153,7 @@ Table_003_Horde_40to50 = {
 			[12] = { str = "12. Затем жмите #PICTUREHearth# в Shadowprey Village" },
 			[13] = { str = "13. Сдайте задание #TURNIN\"Portals of the Legion\"#" },
 			[14] = { str = "14. Летите в TB (Thunder Bluff), затем в Dustwallow Marsh..." },
-			--[15] = { str = "." },
+			[15] = { str = "=====>" },
 			--[16] = { str = "." },
 		}
 	},
@@ -178,7 +178,7 @@ Table_003_Horde_40to50 = {
 			[10] = { str = "10. Бегайте туда-сюда, пока не выполните #DOQUEST\"The Brood of Onyxia\"#, но финальную часть пока не делайте (она делается позже, на #NPClevel 48#, так что пока задание можно бросить)." },
 			[11] = { str = "11. Сдайте #TURNIN\"Marg Speaks\"# и возьмите #ACCEPT\"Report to Zor\"#" },
 			[12] = { str = "12. Летите в Tanaris..." },
-			--[13] = { str = "." },
+			[13] = { str = "=====>" },
 			--[14] = { str = "." },
 		}
 	},
@@ -225,7 +225,7 @@ Table_003_Horde_40to50 = {
 			[32] = { str = "32. Сдайте #TURNIN\"More Wastewander Justice\"# и #TURNIN\"WANTED: Caliph Scorpidsting\"#" },
 			[33] = { str = "33. Летите в Freewind Post" },
 			[34] = { str = "34. Бегите на запад в Feralas" },
-			--[35] = { str = "." },
+			[35] = { str = "=====>" },
 			--[36] = { str = "." },
 		}
 	},
@@ -288,7 +288,7 @@ Table_003_Horde_40to50 = {
 			[48] = { str = "48. Выучите новые способности" },
 			[49] = { str = "49. Летите в Splintertree Post (Ashenvale)" },
 			[50] = { str = "50. Затем идите на восток в Azshara" },
-			--[50] = { str = "." },
+			[51] = { str = "=====>" },
 			--[51] = { str = "." },
 		}
 	},
@@ -316,6 +316,7 @@ Table_003_Horde_40to50 = {
 			[13] = { str = "13. #NPC\"Field Testing Kit\"# и #NPC\"Box of Empty Vials\"# пока можно положить в банк" },
 			[14] = { str = "14. Летите в Tarren Mill" },
 			[15] = { str = "15. Отправляйтесь в Hinterlands. Проход находится около точки 83.33", x = 83, y = 33, zone = "Hillsbard Foothills" },
+			[16] = { str = "=====>" },
 			--[15] = { str = "." },
 		}
 	},
@@ -399,9 +400,9 @@ Table_003_Horde_40to50 = {
 			[13] = { str = "13. Затем выполните #DOQUEST\"The Bloodsail Buccaneers\"# часть 5 (убейте трёх пиратов на трёх кораблях) и пока делаете это, найдите #ACCEPT\"Cortello's Riddle\"# (обычно это маленький свиток внизу среднего корабля)" },
 			[14] = { str = "14. Затем жмите Hearth обратно в BB; если камень ещё на кулдауне — умрите специально." },
 			[15] = { str = "15. Сдайте #TURNIN\"The Captain's Chest\"# и #TURNIN\"The Bloodsail Buccaneers\"# часть 5" },
-			[16] = { str = "16. Летите в Kargath (Badlands).." },
-			[17] = { str = "17. Достаю стак Silk Cloth из почтового ящика для задания #ACCEPT\"Caught\"#, затем..." },
-			[18] = { str = "18. Идите в Searing Gorge..." },
+			[16] = { str = "16. Летите в Kargath (Badlands)" },
+			[17] = { str = "17. Достаньте стак Silk Cloth из почтового ящика для задания #ACCEPT\"Caught\"#" },
+			[18] = { str = "18. Идите в Searing Gorge" },
 			[19] = { str = "=====>" },
 			--[20] = { str = "." },
 		}
