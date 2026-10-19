@@ -417,9 +417,9 @@ Table_003_Horde_40to50 = {
 		--itemCount = 26,
 		items = {
 			[1] = { str = "1. 47-48 Searing Gorge" },
-			[2] = { str = "2. Первым делом я иду на юго-восток и выполняю #DOQUEST\"Caught!\"# (парень в уборной, 65.62), затем сдаю его. ... беру #ACCEPT\"Ledger from Tanaris\"# ... щёлкаю по уборной, чтобы получить #NPCGoodsteel Ledger#", x = 65, y = 62, zone = "Searing Gorge" },
+			[2] = { str = "2. Первым делом я иду на юго-восток и выполняю #DOQUEST\"Caught!\"# (парень в точке, 65.62), затем СДАЙТЕ ЕГО и берите #ACCEPT\"Ledger from Tanaris\"# щёлкаю по туалету, чтобы получить книгу #NPCGoodsteel Ledger# (она появится на земле рядом с туалетом)", x = 65, y = 62, zone = "Searing Gorge" },
 			[3] = { str = "3. Затем я начинаю убивать Glassweb Spiders для задания #DOQUEST\"Ledger from Tanaris\"#." },
-			[4] = { str = "4. Затем иду на северо-запад, говорю с #NPCKalaran Windblade# (в точке 39.38) по пути к Thorium Point (35.25). Сначала выполняю его задание «выслушай меня» #DOQUEST\"Divine Retribution\"#. Чтобы получить #ACCEPT\"The Flawless Flame\"#. Оказавшись в Thorium Point, соберите ВСЕ задания там и откройте полетчика.", x = 35, y = 25, zone = "Searing Gorge" },
+			[4] = { str = "4. Затем иду на северо-запад, говорю с #NPCKalaran Windblade# в точке 39.38 по пути к Thorium Point (35.25). Сначала выполняю его задание #DOQUEST\"Divine Retribution\"# (выслушайте его). Чтобы получить #ACCEPT\"The Flawless Flame\"#. Оказавшись в Thorium Point, соберите ВСЕ задания там и откройте полетчика.", x = 35, y = 25, zone = "Searing Gorge" },
 			[5] = { str = "5. Затем выполните следующее (шаги 5-13 в любом порядке):" },
 			[6] = { str = "6. #DOQUEST\"Fiery Menace!\"# " },
 			[7] = { str = "7. #DOQUEST\"Curse These Fat Fingers\"# " },
