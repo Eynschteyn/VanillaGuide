@@ -197,7 +197,7 @@ Table_003_Horde_30to40 = {
 			[62] = { str = "62. Сдай все эти 3 задания (#TURNIN\"Suspicious Hoofprints\"#, #TURNIN\"Lieutenant Paval Reethe\"# и #TURNIN\"The Black Shield\"#) возьмите и сдайте задание огру за вами #TURNIN\"The Black Shield\"# часть 2. Задание \"#NPCThe Black Shield\"# часть 3 пока ПРОПУСТИТЕ" },
 			[63] = { str = "63. Зайди к торговцу торлю и купи 3 книги первой помощи first aid books" },
 			[64] = { str = "64. Летите в Ratchet и сдайте заадния #TURNIN\"Goblin Sponsorship\"# и #TURNIN\"Wharfmaster Dizzywig\"#, берите следующие заадния #ACCEPT\"Goblin Sponsorship\"# часть 2 и #ACCEPT\"Parts for Kravel\"#" },
-			[65] = { str = "65. Садитесь на корабль до BB (Booty Bay). Пока ждете корабль наделайте бинтов" },
+			[65] = { str = "65. Садитесь на корабль до Booty Bay. Пока ждете корабль наделайте бинтов" },
 		}
 	},
 
