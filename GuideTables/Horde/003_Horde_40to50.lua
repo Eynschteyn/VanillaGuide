@@ -473,7 +473,7 @@ Table_003_Horde_40to50 = {
 			[15] = { str = "15. Возьмите и выполните #DOQUEST\"A Tale of Sorrow\"# просто поговорите с ним если вам предложит НПС это задание. Задание #NPC\"The Stones That Bind Us\"# ПРОПУСТИТЕ" },
 			[16] = { str = "16. Жмите Hearth в Booty Bay" },
 			[17] = { str = "17. Садитесь на корабль до Ratchet." },
-			[18] = { str = "18. Летите в Brackenwall Village (Dustwallow Marsh). Оказавшись там, возьмите #ACCEPT\"The Brood of Onyxia\"# " },
+			[18] = { str = "18. Летите в Brackenwall Village (Dustwallow Marsh). Оказавшись там, возьмите #ACCEPT\"The Brood of Onyxia\"# у НПС #NPCDraz'Zilb#" },
 			[19] = { str = "19. Затем направляйтесь на юг и заберите #NPCOverdue Package# для задания #DOQUEST\"Ledger from Tanaris\"# (в точке 54.55)", x = 54, y = 55, zone = "Dustwallow Marsh" },
 			[20] = { str = "20. Спуститесь немного и выполните #DOQUEST\"The Brood of Onyxia\"# (яйца можно найти в точках 53.72 и 48.75)", x = 53, y = 72, zone = "Dustwallow Marsh" },
 			[21] = { str = "21. Затем направляйтесь на запад к пещере Bloodfen Burrow (32.67) и выполните #DOQUEST\"Cortello's Riddle\"# ... возьмите следующую часть." , x = 32, y = 67, zone = "Dustwallow Marsh" },
