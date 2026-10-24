@@ -481,7 +481,7 @@ Table_003_Horde_40to50 = {
 			[23] = { str = "23. Сдайте #TURNIN\"The Brood of Onyxia\"# и возьмите #ACCEPT\"Challenge Overlord Mok'Morokk\"# (TBC Quest) зачем эта приписка хз" },
 			[24] = { str = "24. Выполните #DOQUEST\"Challenge Overlord Mok'Morokk\"#, затем сдайте его" },
 			[25] = { str = "25. Затем летите в Tanaris" },
-			[26] = { str = "26. Сдайте #TURNIN\"Ledger from Tanaris\"# и #TURNIN\"Into the Field\"# далее возьмите и выполните #DOQUEST\"Slake that Thirst\"#" },
+			[26] = { str = "26. Сдайте #TURNIN\"Ledger from Tanaris\"# и #TURNIN\"Into the Field\"# далее возьмите и выполните #DOQUEST\"Slake that Thirst\"# у вас должны быть Wastewander Water Pouch ранее в гайде говорилось что их нужно сохранить" },
 			[27] = { str = "27. Затем летите в Feralas" },
 			[28] = { str = "=====>" },
 			--[29] = { str = "." },
