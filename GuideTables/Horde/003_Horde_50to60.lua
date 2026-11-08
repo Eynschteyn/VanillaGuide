@@ -31,7 +31,7 @@ Table_003_Horde_50to60 = {
 			[4] = { str = "4. #DOQUEST\"Stealing Knowledge\"# (выполняется в Ruins of Eldarath, 36.54)", x = 36, y = 54, zone = "Azshara" },
 			[5] = { str = "5. #DOQUEST\"Seeping Corruption\"# (Tide Pools находятся в: 1=47.61, 2=47.51, 3=48.48, 4=47.46)", x = 47, y = 61, zone = "Azshara" },
 			[6] = { str = "6. Как только они выполнены, сдайте #TURNIN\"Stealing Knowledge\"# далее возьмите ВСЕ 4 задания на доставку #ACCEPT\"Delivery\"#" },
-			[7] = { str = "7. Сдайте #TURNIN\"Delivery to Archmage Xylem\"# (телепортёр находится в точке 28.50, #VIDEOSee Video#) далее возьмите #ACCEPT\"Xylem's Payment to Jediga\"# ", x = 28, y = 50, zone = "Azshara" },
+			[7] = { str = "7. Сдайте #TURNIN\"Delivery to Archmage Xylem\"# (телепортёр находится в точке 28.50) далее возьмите #ACCEPT\"Xylem's Payment to Jediga\"# ", x = 28, y = 50, zone = "Azshara" },
 			[8] = { str = "8. Затем летите в Thunder Bluff" },
 			[9] = { str = "9. Сдайте #TURNIN\"Delivery to Magatha\"# (на Elder Rise) и возьмите #ACCEPT\"Magatha's Payment to Jediga\"#" },
 			[10] = { str = "10. Жмите Hearth в Orgrimmar." },
