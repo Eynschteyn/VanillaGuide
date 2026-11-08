@@ -35,7 +35,7 @@ Table_003_Horde_50to60 = {
 			[8] = { str = "8. Затем идите и сдайте задание #TURNIN\"Xylem's Payment to Jediga\"# в точке 22.51" },
 			[9] = { str = "9. Затем летите в Thunder Bluff" },
 			[10] = { str = "10. Сдайте #TURNIN\"Delivery to Magatha\"# (на Elder Rise) и возьмите #ACCEPT\"Magatha's Payment to Jediga\"#" },
-			[11] = { str = "11. Жмите Hearth в Orgrimmar." },
+			[11] = { str = "11. Жмите Hearth в Orgrimmar" },
 			[12] = { str = "12. Идите сдайте #TURNIN\"Rise of the Silithid\"# и возьмите #ACCEPT\"March of the Silithid\"# в точке 56.46", x = 56, y = 46, zone = "Azshara" },
 			[13] = { str = "13. Сдайте #TURNIN\"Delivery to Jes'rimon\"# в точке 55.34 далее возьмите #ACCEPT\"Jes'rimon's Payment to Jediga\"# и #ACCEPT\"Bone-Bladed Weapons\"# ", x = 55, y = 34, zone = "Azshara" },
 			[14] = { str = "14. Затем сдайте #TURNIN\"Ripple Delivery\"# в точке 59.36 (если вы делали раздел Hinterlands)", x = 59, y = 36, zone = "Azshara" },
