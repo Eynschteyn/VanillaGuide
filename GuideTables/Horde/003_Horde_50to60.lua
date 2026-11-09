@@ -65,7 +65,7 @@ Table_003_Horde_50to60 = {
 			[3] = { str = "3. Возьмите задание #ACCEPT\"Gammerita, Mon!\"# (элитное) и #ACCEPT\"Lard Lost His Lunch\"#" },
 			[4] = { str = "4. Выполняйте в следующем порядке:" },
 			[5] = { str = "5. #DOQUEST\"Gammerita, Mon!\"# и #DOQUEST\"Whiskey Slim's Lost Grog\"#" },
-			[6] = { str = "6. #DOQUEST\"Cortello's Riddle\"# в точке 80.46, маленький сундук в воде, сумка на 14 слотов вместе с 8800 XP)", x = 80, y = 46, zone = "The Hinterlands" },
+			[6] = { str = "6. #DOQUEST\"Cortello's Riddle\"# в точке 80.46, маленький сундук в воде", x = 80, y = 46, zone = "The Hinterlands" },
 			[7] = { str = "7. #DOQUEST\"Lard Lost His Lunch\"# в точке 84.42", x = 84, y = 42, zone = "The Hinterlands" },
 			[8] = { str = "8. Затем идите сдайте #TURNIN\"Snapjaws, Mon!\"#, #TURNIN\"Gammerita, Mon!\"# и #TURNIN\"Lard Lost His Lunch\"#" },
 			[9] = { str = "9. Затем идите выполнять #DOQUEST\"Sprinkle's Secret Ingredient\"# в точке 41.60", x = 41, y = 60, zone = "The Hinterlands" },
