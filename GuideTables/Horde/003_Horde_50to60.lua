@@ -71,7 +71,7 @@ Table_003_Horde_50to60 = {
 			[9] = { str = "9. Затем идите выполнять #DOQUEST\"Sprinkle's Secret Ingredient\"# в точке 41.60", x = 41, y = 60, zone = "The Hinterlands" },
 			[10] = { str = "10. Затем жмите Hearth в Orgrimmar" },
 			[11] = { str = "11. Летите в Azshara" },
-			[12] = { str = "12. Сдайте все 4 задания на доставку" },
+			[12] = { str = "12. Сдайте все 4 задания на доставку (у меня было 3 задания)" },
 			[13] = { str = "13. Летите в Crossroads" },
 			[14] = { str = "14. Сделайте Crossroads вашим домом" },
 			[15] = { str = "15. Летите в Ratchet" },
