@@ -75,7 +75,7 @@ Table_003_Horde_50to60 = {
 			[13] = { str = "13. Летите в Crossroads" },
 			[14] = { str = "14. Сделайте Crossroads вашим домом" },
 			[15] = { str = "15. Летите в Ratchet" },
-			[16] = { str = "16. Заберите \"#NPCStone Circle#\" в магазине Liv Rizzlefix, также возьмите #ACCEPT\"Volcanic Activity\"# пока вы там" },
+			[16] = { str = "16. Заберите \"#NPCStone Circle#\" на входе в магазине Liv Rizzlefix, также возьмите #ACCEPT\"Volcanic Activity\"# пока вы там" },
 			[17] = { str = "17. Садитесь на корабль до Booty Bay" },
 			[18] = { str = "18. Летите в Stonard (Swamp of Sorrows)" },
 			[19] = { str = "19. Идите в Blasted Lands" },
