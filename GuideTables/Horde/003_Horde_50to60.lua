@@ -166,7 +166,7 @@ Table_003_Horde_50to60 = {
 			[34] = { str = "34. Сдайте #TURNIN\"Finding the Source\"# и возьмите #ACCEPT\"The New Springs\"# (30.50)", x = 30, y = 50, zone = "Un'Goro Crater" },
 			[35] = { str = "35. #DOQUEST\"The Western Pylon\"# (в точке 23.58)", x = 23, y = 58, zone = "Un'Goro Crater" },
 			[36] = { str = "36. Идите обратно в Marshal's Refuge, убивая слизней по пути" },
-			[37] = { str = "37. Сдайте задания. Убедитесь, что выполнили #DOQUEST\"Making Sense of It\"# (просто поговорите с гномом в пещере)" },
+			[37] = { str = "37. Сдайте задания. Убедитесь, что выполнили #DOQUEST\"Making Sense of It\"# (просто поговорите с гномихой в пещере)" },
 			[38] = { str = "38. Летите в Tanaris" },
 			[39] = { str = "39. Сдайте #TURNIN\"Super Sticky\"# и #TURNIN\"Bungle in the Jungle\"# далее я ПРОПУСКАЮ \"#NPCPawn Captures Queen\"#" },
 			[40] = { str = "40. Затем летите в Thunder Bluff" },
