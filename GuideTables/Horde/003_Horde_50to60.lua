@@ -266,8 +266,8 @@ Table_003_Horde_50to60 = {
 		--itemCount = 16,
 		items = {
 			[1] = { str = "1. 54-54 Felwood" },
-			[2] = { str = "2. Возьмите #ACCEPT\"Timbermaw Ally\"# (в точке 50.85) (??? TBC Quest?) Просто поговорите с НПС там, он даст вам его.", x = 50, y = 85, zone = "Felwood" },
-			[3] = { str = "3. Идите возьмите #ACCEPT\"Forces of Jaedenar\"# и #ACCEPT\"Verifying the Corruption\"# (в Emerald Sanctuary 51.82).", x = 51, y = 82, zone = "Felwood" },
+			[2] = { str = "2. Возьмите #ACCEPT\"Timbermaw Ally\"# (в точке 50.85) Просто поговорите с НПС там, он даст вам его", x = 50, y = 85, zone = "Felwood" },
+			[3] = { str = "3. Идите возьмите #ACCEPT\"Forces of Jaedenar\"# и #ACCEPT\"Verifying the Corruption\"# (в Emerald Sanctuary 51.82)", x = 51, y = 82, zone = "Felwood" },
 			[4] = { str = "4. Идите возьмите #ACCEPT\"Cleansing Felwood\"# (в точке 46.84)", x = 46, y = 84, zone = "Felwood" },
 			[5] = { str = "5. Я начинаю убивать слизней, я убиваю примерно 30/40 слизней здесь всего для задания #DOQUEST\"A Sample of Slime...\"# (40.68)", x = 40, y = 68, zone = "Felwood" },
 			[6] = { str = "6. Затем идите завершать #DOQUEST\"Forces of Jaedenar\"# (38.60)", x = 38, y = 60, zone = "Felwood" },
