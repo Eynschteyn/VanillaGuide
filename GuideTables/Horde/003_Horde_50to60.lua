@@ -301,7 +301,7 @@ Table_003_Horde_50to60 = {
 			[6] = { str = "6. Идите в Everlook точка 61.38. По догорое откройте полетчика", x = 61, y = 38, zone = "Winterspring" },
 			[7] = { str = "7. Возьмите: #ACCEPT\"Are We There, Yeti?\"# #ACCEPT\"The Everlook Report\"# #ACCEPT\"Duke Nicholas Zverenhoff\"# #ACCEPT\"Sister Pamela\"# #ACCEPT\"Trouble in Winterspring\"# и #ACCEPT\"Ursius of the Shardtooth\"#" },
 			[8] = { str = "8. Сдайте #TURNIN\"Felnok Steelspring\"# и возьмите #ACCEPT\"Chillwind Horns\"#" },
-			[9] = { str = "9. Сделайте Everlook вашим домом },
+			[9] = { str = "9. Сделайте Everlook вашим домом" },
 			[10] = { str = "10. Идите выполнять #DOQUEST\"Ursius of the Shardtooth\"# (просто продолжайте гриндить мобов на холме к северу от Everlook, пока не появится #NPCUrsius#)" },
 			[11] = { str = "11. Затем сдайте #TURNIN\"Ursius of the Shardtooth\"# и возьмите #ACCEPT\"Brumeran of the Chillwind\"#" },
 			[12] = { str = "12. Идите выполнять #DOQUEST\"Brumeran of the Chillwind\"# (он патрулирует около 60.60, смотрите карту для полного маршрута патруля)", x = 60, y = 60, zone = "Winterspring" },
