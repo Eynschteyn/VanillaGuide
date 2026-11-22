@@ -298,7 +298,7 @@ Table_003_Horde_50to60 = {
 			[3] = { str = "3. Идите к Donova Snowden (в точке 31.45)", x = 31, y = 45, zone = "Winterspring" },
 			[4] = { str = "4. Сдайте #TURNIN\"The New Springs\"# и #TURNIN\"It's a Secret to Everybody\"# и возьмите #ACCEPT\"Strange Sources\"#" },
 			[5] = { str = "5. ПРИМЕЧАНИЕ: я ПРОПУСКАЮ \"#NPCThe Videre Elixir\"# и остальную часть этой цепочки." },
-			[6] = { str = "6. Идите в Everlook.. (61.38)", x = 61, y = 38, zone = "Winterspring" },
+			[6] = { str = "6. Идите в Everlook точка 61.38. По догорое откройте полетчика", x = 61, y = 38, zone = "Winterspring" },
 			[7] = { str = "7. Возьмите: #ACCEPT\"Are We There, Yeti?\"# #ACCEPT\"The Everlook Report\"# #ACCEPT\"Duke Nicholas Zverenhoff\"# #ACCEPT\"Sister Pamela\"# #ACCEPT\"Trouble in Winterspring\"# и #ACCEPT\"Ursius of the Shardtooth\"#" },
 			[8] = { str = "8. Сдайте #TURNIN\"Felnok Steelspring\"# ... возьмите #ACCEPT\"Chillwind Horns\"# " },
 			[9] = { str = "9. Сделайте Everlook вашим домом." },
