@@ -276,9 +276,10 @@ Table_003_Horde_50to60 = {
 			[9] = { str = "9. Откройте там полетчика." },
 			[10] = { str = "10. Затем выполняйте в следующем порядке:" },
 			[11] = { str = "11. #DOQUEST\"Verifying the Corruption\"# (элитное) (41.41)", x = 41, y = 41, zone = "Felwood" },
-			[12] = { str = "12. #DOQUEST\"Cleansing Felwood\"# (54.16)", x = 54, y = 16, zone = "Felwood" },
-			[13] = { str = "13. Идите возьмите #ACCEPT\"Deadwood of the North\"# (в точке 64.8), но НЕ выполняйте его сейчас.", x = 64, y = 8, zone = "Felwood" },
-			[14] = { str = "14. Гриндите свой путь через пещеру, чтобы попасть в Winterspring..." },
+			[12] = { str = "12. #DOQUEST\"The Strength of Corruption\"#", x = 54, y = 16, zone = "Felwood" },
+			[13] = { str = "13. #DOQUEST\"Cleansing Felwood\"# (54.16)", x = 54, y = 16, zone = "Felwood" },
+			[14] = { str = "14. Идите возьмите #ACCEPT\"Deadwood of the North\"# (в точке 64.8), но НЕ выполняйте его сейчас", x = 64, y = 8, zone = "Felwood" },
+			[15] = { str = "15. Гриндите свой путь через пещеру, чтобы попасть в Winterspring" },
 			--[15] = { str = "." },
 			--[16] = { str = "." },
 		}
