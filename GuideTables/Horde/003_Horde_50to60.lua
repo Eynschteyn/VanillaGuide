@@ -313,7 +313,7 @@ Table_003_Horde_50to60 = {
 			[18] = { str = "18. #DOQUEST\"Threat of the Winterfall\"# вы должны найти #NPCEmpty Firewater Flask#, который начинает #ACCEPT\"Winterfall Firewater\"# пока выполняете это задание. Когда выпадет предмет #NPC\"Winterfall Ritual Totem\"#, сохраните его и положите в банк, он понадобится позже" },
 			[19] = { str = "19. #DOQUEST\"Wild Guardians\"# (Ragged Owls находятся к западу от Everlook, а Raging Owls — прямо к северу от Everlook)" },
 			[20] = { str = "20. #DOQUEST\"Chillwind Horns\"# (большую концентрацию химер можно найти около 66.29)", x = 66, y = 29, zone = "Winterspring" },
-			[21] = { str = "21. Как только #DOQUEST\"Threat of the Winterfall\"# и #DOQUEST\"Winterfall Firewater\"# выполнены, идите сдавать их вместе с #TURNIN\"Strange Sources\"# (в точке 31.45). Далее возьмите #ACCEPT\"Falling to Corruption\"#", x = 31, y = 45, zone = "Winterspring" },
+			[21] = { str = "21. Как только #DOQUEST\"Threat of the Winterfall\" этого задания у вас может не быть берите его у гоблинши как только оно будет доступно# и #DOQUEST\"Winterfall Firewater\"# выполнены, идите сдавать их вместе с #TURNIN\"Strange Sources\"# (в точке 31.45). Далее возьмите #ACCEPT\"Falling to Corruption\"#", x = 31, y = 45, zone = "Winterspring" },
 			[22] = { str = "22. Как только остальные из этих заданий выполнены, возвращайтесь в Everlook и сдайте #TURNIN\"Are We There, Yeti?\"# и возьмите #ACCEPT\"Are We There, Yeti?\"# часть 2. Сдайте #TURNIN\"Chillwind Horns\"# далее я ПРОПУСКАЮ \"#NPCReturn to Tinkee\"#" },
 			[23] = { str = "23. Затем идите выполнять:" },
 			[24] = { str = "24. #DOQUEST\"Winterfall Activity\"# (67.37)", x = 67, y = 37, zone = "Winterspring" },
@@ -336,7 +336,7 @@ Table_003_Horde_50to60 = {
 		--itemCount = 31,
 		items = {
 			[1] = { str = "1. 55-55 Felwood" },
-			[2] = { str = "2. Сдайте #TURNIN\"Wild Guardians\"# ... Возьмите #ACCEPT\"Wild Guardians\"# часть 2 и #ACCEPT\"Well of Corruption\"#" },
+			[2] = { str = "2. Сдайте #TURNIN\"Wild Guardians\"# и еще одно задание далее ... Возьмите #ACCEPT\"Wild Guardians\"# часть 2 и #ACCEPT\"Well of Corruption\"#" },
 			[3] = { str = "3. Идите сдайте #TURNIN\"Cleansing Felwood\"# ... затем получите cenarion beacon для задания #DOQUEST\"Salve Via Hunting\"# (просто поговорите с НПС, чтобы получить его) (46.83)", x = 46, y = 83, zone = "Felwood" },
 			[4] = { str = "4. Идите сдайте #TURNIN\"Verifying the Corruption\"# и #TURNIN\"Forces of Jaedenar\"# ... возьмите #ACCEPT\"Collection of the Corrupt Water\"# (51.82)", x = 51, y = 82, zone = "Felwood" },
 			[5] = { str = "5. Идите выполнять в следующем порядке:" },
