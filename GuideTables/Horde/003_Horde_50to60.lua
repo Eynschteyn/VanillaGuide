@@ -363,7 +363,7 @@ Table_003_Horde_50to60 = {
 			[26] = { str = "26. Сдайте #TURNIN\"The Strength of Corruption\"# " },
 			[27] = { str = "27. Затем летите в Tanaris" },
 			[28] = { str = "28. Идите пугать #NPCSprinkle# механическим йети для задания #DOQUEST\"Are We There, Yeti?\"# часть 3" },
-			[29] = { str = "29. Затем летите в Silithus" },
+			[29] = { str = "29. Затем летите в Un'Goro Crater и бегите в Silithus" },
 			--[30] = { str = "." },
 			--[31] = { str = "." },
 		}
