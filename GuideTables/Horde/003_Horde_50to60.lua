@@ -396,7 +396,7 @@ Table_003_Horde_50to60 = {
 			[16] = { str = "16. Сдайте #TURNIN\"Noggle's Lost Satchel\"#" },
 			[17] = { str = "17. Затем жмите Hearth в Orgrimmar" },
 			[18] = { str = "18. Идите в Undercity" },
-			[19] = { str = "19. Идите завершать #TURNIN\"A Sample of Slime...\"# и #TURNIN\"... and a Batch of Ooze\"#" },
+			[19] = { str = "19. Идите завершать #TURNIN\"A Sample of Slime...\"# и #TURNIN\"... and a Batch of Ooze\"# перед сдачей задания подойдите к столу около НПС и тыкайте на котелки что бы сделать нужную слизь. Задание #NPC\"Melding of Influences\"# ПРОПУСТИТЕ" },
 			[20] = { str = "20. Идите возьмите #ACCEPT\"A Call To Arms: The Plaguelands!\"#" },
 			[21] = { str = "21. Сделайте Undercity вашим домом" },
 			[22] = { str = "22. Идите к The Bulwark (это небольшая база к востоку от Tirisfal Glades)" },
