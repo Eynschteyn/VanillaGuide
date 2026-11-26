@@ -365,7 +365,7 @@ Table_003_Horde_50to60 = {
 			[28] = { str = "28. Идите пугать #NPCSprinkle# механическим йети для задания #DOQUEST\"Are We There, Yeti?\"# часть 3" },
 			[29] = { str = "29. Затем летите в Un'Goro Crater и идите пугать #NPCQuixxil# механическим йети для задания #DOQUEST\"Are We There, Yeti?\"# часть 3" },
 			[30] = { str = "30. Затем бегите в Silithus" },
-			--[30] = { str = "." },
+			[31] = { str = "31. Откройте полетчика в точке 50.37 (Cenarion Hold)" },
 			--[31] = { str = "." },
 		}
 	},
@@ -379,7 +379,7 @@ Table_003_Horde_50to60 = {
 		--itemCount = 25,
 		items = {
 			[1] = { str = "1. 55-55 Silithus" },
-			[2] = { str = "2. #PICTURE Эта часть гайда с 3его шага по 17тый пропустите так если на сервере не открыт анкираж то этих заданий нет#" },
+			[2] = { str = "2. #PICTURE Эту часть гайда с 3его шага по 17тый пропустите если на вашем сервере не открыт анкираж. Этих заданий нет в локации#" },
 			[3] = { str = "3. Возьмите: #ACCEPT\"The Twilight Mystery\"#, #ACCEPT\"Securing the Supply Lines\"# и #ACCEPT\"Deadly Desert Venom\"#" },
 			[4] = { str = "4. Идите выполнять: #DOQUEST\"Securing the Supply Lines\"# и #DOQUEST\"Deadly Desert Venom\"# (выполняйте эти 2 задания к северо-востоку от Cenarion Hold)" },
 			[5] = { str = "5. Затем сдайте их и возьмите новые задания" },
