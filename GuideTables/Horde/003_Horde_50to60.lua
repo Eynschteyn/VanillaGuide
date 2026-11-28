@@ -478,7 +478,7 @@ Table_003_Horde_50to60 = {
 			[28] = { str = "28. #VIDEOПОДСКАЗКА:# Если пещера слишком сложна для вас, другая лёгкая альтернатива — проехаться на грифоне с Plaguewood Tower (22.32) до Crown Guard tower (39.75), при условии, что Орда контролирует башни. Затем сдайте #TURNIN\"Demon Dogs\"#, #TURNIN\"Blood Tinged Skies\"# и #TURNIN\"Carrion Grubbage\"# возьмите #ACCEPT\"Redemption\"# далее просто поговорите с парнем, чтобы завершить задание, далее я ПРОПУСКАЮ \"#NPCOf Forgotten Memories\"# (можете попробовать, если найдёте группу)", x = 22, y = 32, zone = "Eastern Plaguelands" },
 			[29] = { str = "29. Затем идите сдавать: #TURNIN\"To Kill With Purpose\"# и #TURNIN\"Un-Life's Little Annoyances\"# (в точке 26.74)", x = 26, y = 74, zone = "Eastern Plaguelands" },
 			[30] = { str = "30. Затем идите выполнять #DOQUEST\"Zaeldarr the Outcast\"# (27.85)", x = 27, y = 85, zone = "Eastern Plaguelands" },
-			[31] = { str = "31. Затем идите к куче земли за склепом и сдайте #TURNIN\"Hameya's Plea\"# (??? TBC Quest?)" },
+			[31] = { str = "31. Затем идите к куче земли за склепом и сдайте #TURNIN\"Hameya's Plea\"#" },
 			[32] = { str = "32. Затем сдайте: #TURNIN\"Zaeldarr the Outcast\"# и #TURNIN\"Defenders of Darrowshire\"# в Light's Hope Chapel" },
 			[33] = { str = "33. Жмите Hearth в Undercity" },
 			[34] = { str = "34. Сдайте #TURNIN\"Better Late Than Never\"# далее возьмите #ACCEPT\"The Jeremiah Blues\"#" },
